@@ -1,0 +1,7 @@
+{
+  "name": "AWSSDK.SecurityToken",
+  "references": [
+    "AWSSDK.Core"
+  ],
+  "allowUnsafeCode": true
+}

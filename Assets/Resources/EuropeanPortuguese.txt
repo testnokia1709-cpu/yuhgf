@@ -1,0 +1,176 @@
+Resolvi o nível {0} no #BrainItOn
+com ☆☆☆.
+Partilhar no Twitter
+Tweetar
+Partilhar no Facebook
+Publicar
+Escrever mensagem...
+A carregar...
+Gostarias de classificar este jogo?
+Sim, claro!
+Comunicar um problema
+Agora não
+Esta fila ainda está bloqueada. Tens de resolver 4 dos 5 níveis da fila anterior para desbloqueá-la.
+Ok
+Queres apagar o teu progresso do jogo?
+Apagar Progresso
+Cancelar
+Notícias
+Nenhuma notícia disponível, verifica novamente mais tarde.
+Fechar
+Créditos
+Queres terminar a sessão do Facebook?
+Continuar Ligado
+Sessão terminada e dados do Facebook eliminados.
+Descarrega Brain It On! para o teu dispositivo móvel para desbloqueares todos os conjuntos de puzzles.
+Parabéns! Desbloqueaste {0}.
+Boa
+A ligar à loja...
+Lamentamos, mas houve um erro ao tentar contactar a loja, tenta novamente mais tarde.
+As tuas compras foram restauradas.
+Compra
+Compra efectuada. Obrigado pelo teu apoio!
+Agora Não
+Obrigado por apoiares pequenos desenvolvedores independentes!
+Definições
+Restaurar Compras
+Reiniciar Jogo
+Brevemente...
+Iniciar Sessão
+Terminar Sessão
+Sem Anúncios
+Lamentamos, mas actualmente o login do Facebook só é suportado em dispositivos móveis.
+Parabéns! Desbloqueaste {0}.
+Comprar Agora
+Resolvido
+Tens a certeza de que desejas sair?
+Sim
+Não
+Queres ver um vídeo para teres uma dica?
+Por favor vê o vídeo até ao fim para teres uma dica.
+Dica
+Houve um erro ao carregar o vídeo. Verifica a tua ligação à Internet e tenta novamente.
+Editor de Níveis
+Proezas
+Loja
+Desbloquear
+Resolvido {0} vezes
+Ainda não tens estrelas suficientes. Consegue mais para desbloqueares este conjunto.
+Linguagem
+Melhores Resultados
+Compra o jogo completo
+Desbloqueia todos os níveis
+Desbloqueia todas as dicas
+Remove todos os anúncios
+(O preço é descontado se já compraste algum item)
+Objectivo:
+Tempo: {0}
+Formas: {0}
+Entra no jogo com o Game Center para gravares o teu progresso e jogares em vários dispositivos iOS.
+Tens de resolver todos os níveis para desbloqueares os níveis comunitários.
+Erro ao contactar o servidor, tenta novamente mais tarde.
+O editor de níveis só está disponível se comprares o jogo.
+Tens a certeza de que queres apagar este nível?
+Nível apagado com sucesso.
+Escolhe um Nível
+A tua pontuação actual:
+Queres ver um vídeo para mais uma tentativa?
+Physics active on start
+Níveis de usuário
+Ground
+Error loading level. Please upgrade to the latest version of the game.
+Try
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Desenha uma forma
+Faz com que a bola acerte na parede da esquerda
+Inclina a figura para a direita
+Faz com que o copo tombe
+Retira a bola da taça
+Coloca um objecto dentro do copo
+Coloca apenas duas bolas no copo
+Coloca um objecto na caixa pequena
+Retira a bola da plataforma
+Faz com que a bola toque no chão
+Faz com que um objecto toque na área vermelha
+Retira a tampa
+Levanta a bola do chão
+Retira a bola da jarra
+Retira todos os objectos da plataforma
+Levanta a caixa laranja do chão
+Faz com que o anel toque na parede da direita
+Faz com que a bola toque na parede da esquerda
+Coloca a bola na caixa laranja
+Equilibra a plataforma
+Faz com que a bola toque na parede da direita
+Retira a bola do recipiente
+Coloca a bola na caixa laranja
+Retira a bola do vaso
+Vira o copo ao contrário
+Retira a bola da figura
+Coloca as bolas na caixa laranja
+Faz com que a bola toque na parede da direita
+Coloca um objecto dentro do copo
+Coloca a bola na caixa laranja
+Coloca a bola na caixa laranja
+Coloca a bola na caixa laranja
+Coloca a bola na caixa laranja
+Coloca um objecto na caixa laranja
+Retira a bola da figura
+Faz com que a bola toque na parede da esquerda e da direita
+Faz com que a bola toque na parede da direita
+Faz com que a bola toque no tecto
+Faz com que a bola toque na parede da direita
+Coloca a bola na caixa laranja
+Faz com que a bola toque na parede da direita
+Faz com que a bola toque na parede da direita
+Retira a bola laranja da caixa
+Coloca a bola na caixa laranja
+Coloca a bola na caixa laranja
+Vira a caixa ao contrário
+Vira a figura para o seu lado respectivo
+Faz com que a figura toque no tecto
+Faz com que a bola toque na parede da esquerda
+Faz com que a bola toque na parede da esquerda
+Faz com que um objecto toque na parede da direita
+Faz com que a bola laranja toque no chão
+Faz com que um objecto toque no tecto
+Faz com que a bola toque no chão
+Faz com que a bola toque na parede da esquerda
+Coloca a bola na caixa da direita e a tábua na caixa da esquerda
+Faz com que a bola toque no chão
+Levanta o triângulo do chão
+Coloca a tábua na caixa laranja
+Coloca três bolas na caixa laranja
+Retira a tampa da caixa
+Retira a casca da redoma
+Coloca uma figura na caixa laranja
+Faz com que o mesmo objecto toque na parede da direita e da esquerda
+Coloca a bola na caixa laranja
+Organiza as bolas coloridas
+Faz com que um objecto toque no chão
+Faz com que a bola toque na parede da direita
+Faz com que a bola toque na parede da direita
+Para ambas as engrenagens
+Faz com que um objecto toque em todas as quatro paredes
+Faz com que as bolas toquem no tecto
+Faz com que um objecto toque na parede da esquerda
+Coloca a figura dentro do copo
+Coloca um objecto dentro da caixa laranja
+Faz com que a bola laranja toque na parede da direita
+Faz com que a bola toque na parede da direita
+Coloca a bola no copo
+Faz com que a figura toque na parede da direita
+Coloca as bolas nas suas respectivas caixas
+Faz com que os imans se toquem
+Separa os imans
+Faz com que as bolas toquem no chão
+Organizar por cor
+As proezas só estão disponíveis se comprares o jogo.
+Resolve {0} níveis com 3 estrelas.
+Resolve {0} níveis com menos formas do que o recomendado.
+Desenha {0} formas.
+Resolve {0} níveis com apenas uma forma.
+Resolve {0} níveis em menos de um segundo.
+Resolve {0} níveis em menos de 5 segundos do que o tempo recomendado.
+Resolve {0} níveis em menos de 10 segundos do que o tempo recomendado.

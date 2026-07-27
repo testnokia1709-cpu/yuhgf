@@ -1,0 +1,176 @@
+He resolt el nivell {0} de #BrainItOn
+amb ☆☆☆.
+Compartir a Twitter
+Fes un tweet
+Compartir a Facebook
+Publicar
+Escriure missatge...
+Carregant...
+Voleu qualificar aquest joc?
+Es clar que sí!
+Informar d'un problema
+Ara no
+Aquesta fila encara està bloquejada. Necessiteu resoldre 4 dels 5 nivells de la fila anterior per a desbloquejar-lo
+D'acord
+Voleu eliminar el vostre progrés?
+Eliminar Progrés
+Cancel·lar
+Notícies
+No hi ha notícies de moment, si us plau, torneu a provar més endevant
+Tancar
+Crèdits
+Voleu desconnectar-vos de Facebook?
+Continuar connectat
+Desconnectat i dades de Facebook eliminades
+Descarregar Brain It On! per al vostre dispositiu mòbil i desbloquejar tots els trencaclosques
+Enhorabona! Heu desbloquejat {0}
+Bravo!
+Connectant a la botiga...
+Ho sentim, hi ha hagut un problema al connectar-se a la botiga. Torneu a intentar-lo més endevant
+La seva compra ha estat restaurada
+Comprar
+Compra complerta. Gràcies pel teu recolçament
+Ara no.
+Gràcies per recolçar els petits desenvolupadors independents
+Ajustaments
+Restaurar Botiga
+Reinciar el joc
+Pròximament...
+Connectar
+Desconnectar
+Sense publicitat
+Ho sentim, la connexió a Facebook només està disponible, de moment, per dispositius mòbils
+Enhorabona!
+Comprar ara
+Solucionat
+Segur que voleu sortir?
+Sí
+No
+Voleu mirar un vídeo per tenir-ne una pista?
+Si us plau, mireu tot el vídeo per tenir-ne una pista
+Pista.
+Hi ha un problema per carregar el vídeo. Intenteu-lo novament.
+Editor de nivells
+Assoliments
+Botiga
+Desbloquejar
+Resolt {0} vegades
+Encara no teniu prou estrelles, si us plau guanyeu-ne més per a obrir aquest paquet
+Idioma
+Millor resultat
+Compreu el joc complet
+Desbloquejeu tots els nivells
+Desbloquejeu totes les pistes
+Elimineu la publicitat
+(El preu total és inferior si ja hey comprat articles)
+Objectiu:
+Temps total: {0}
+Total figures: {0}
+Connecteu-vos amb el vostre "Game Center" per poder desar el vostre progrés i poder jugar a diversos dispositius iOS.
+Heu de solucionar tots els nivells per poder desbloquejar els nivells de la comunitat
+No s'ha pogut connectar amb el servidor, torneu a intentar-lo més tard
+L'editor de nivells només està disponible a la versió completa de pagament
+Esteu segur que voleu eliminar aquest nivell ?
+Nivell eliminat correctament.
+Seleccioneu el nivell
+La seva puntuació actual
+Vegi un vídeo per intentar-ho de nou ?
+Physics active on start
+Community Levels
+Ground
+Error loading level. Please upgrade to the latest version of the game.
+Try
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Dibuixa una figura
+Feu que la bola piqui la paret esquerra
+Tombeu la figura a la dreta
+Moveu el got cap al terra
+Treieu la bola del bol
+Fiqueu un objecte dins el got
+Fiqueu només 2 boles al got
+Pon un objeto en el bote pequeño
+Treieu la bola del suport
+Feu que la bola toqui el terra
+Feu que un objecte toqui l'àrea vermella
+Treieu la tapadora
+Alceu la bola
+Treieu la bola del gerro
+Treieu tots el objectes de la plataforma
+Alceu la caixa taronja
+Feu que l'anell toqui la paret dreta
+Feu que la bola piqui la paret esquerra
+Fiqueu la bola a la caixa taronja
+Equilibreu la plataforma
+Feu que la bola piqui la paret dreta
+Treieu la bola del contenidor
+Fiqueu la bola a la caixa taronja
+Treieu la bola del gerro
+Gireu el got
+Treieu la bola de dins de la figura
+Fiqueu les boles a la caixa taronja
+Feu que la bola piqui la paret dreta
+Fiqueu un objecte dins el got
+Fiqueu la bola a la caixa taronja
+Fiqueu la bola a la caixa taronja
+Fiqueu la bola a la caixa taronja
+Fiqueu la bola a la caixa taronja
+Fiqueu un objecte dins la caixa taronja
+Treieu la bola de dins de la figura
+Feu que la bola piqui les parets esquerra i dreta
+Feu que la bola piqui la paret dreta
+Feu que la bola piqui el sostre
+Feu que la bola piqui la paret dreta
+Fiqueu la bola a la caixa taronja
+Feu que l'anell toqui la paret dreta
+Feu que la bola piqui la paret dreta
+Treieu la bola de dins de la caixa
+Fiqueu les boles a les seves respectives caixes
+Fiqueu la bola a la caixa taronja
+Gireu la caixa
+Mou la figura al seu cantó
+Feu que la figura toqui el sostre
+Feu que la bola piqui la paret esquerra
+Feu que la bola piqui la paret esquerra
+Feu que un objecte piqui la paret dreta
+Feu que la bola taronja piqui el terra
+Feu que un objecte piqui el sostre
+Feu que la bola toqui el terra
+Feu que la bola piqui la paret esquerra
+Fiqueu la bola a la caixa dreta i el tauló a l'esquerra
+Feu que la bola toqui el terra
+Alceu el triangle del terra
+Fiqueu el tauló a la caixa taronja
+Fiqueu tres boles a la caixa taronja
+Treiu la tapadora de la caixa
+Treieu la tapadora de la cúpula
+Fiqueu una figura dins la caixa taronja
+Feu que el mateix objecte piqui les parets esquerra i dreta
+Fiqueu la bola a la caixa taronja
+Classifiqueu les bolas de colors
+Feu que un objecte toqui el terra
+Feu que la bola piqui la paret dreta
+Feu que la bola piqui la paret dreta
+Atureu ambdòs engranatges
+Feu que un objecte piqui les quatre parets
+Feu que les boles piquin el sostre
+Feu que un objecte piqui la paret esquerra
+Fiqueu la figura al got
+Fiqueu un objecte dins la caixa taronja
+Feu que la bola taronja piqui la paret dreta
+Feu que la bola piqui la paret dreta
+Fiqueu la bola dins el got
+Feu que la figura toqui la paret dreta
+Fiqueu les boles a les seves respectives caixes
+Feu que els imans es toquin
+Separeu els imans
+Feu que les pilotes toquin el terra
+Classifiqueu els colors
+Els assoliments estan disponibles si has comprat el joc.
+Resoleu {0} nivells amb 3 estrelles
+Resoleu {0} nivells amb menys figures que l'objectiu.
+Dibuixeu {0} figures
+Resoleu {0} nivells amb 1 única figura.
+Resoleu {0} nivells en menys d'un segon.
+Resoleu {0} nivells 5 segons per sota del temps objectiu.
+Resoleu {0} nivells 10 segons per sota del temps objectiu.

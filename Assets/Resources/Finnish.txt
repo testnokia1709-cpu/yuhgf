@@ -1,0 +1,176 @@
+Selvitin tason {0} #Brainiton :ssa
+☆☆☆
+Jaa Twitterissä
+Twiittaa
+Jaa Facebookissa
+Lähetä
+Kirjoita viesti...
+Lataa...
+Haluaisitko arvostella tämän pelin?
+Kyllä, mielelläni!
+Ilmoita vika
+Ei nyt
+Tämä rivi on vielä lukittu. Sinun täytyy ratkaista 4/5 tasosta edeltävältä riviltä avataksesi sen.
+Ok
+Halutako tyhjentää pelissä etenemisesi?
+Tyhjennä etenemisesi
+Peruuta
+Ilmoitustaulu
+Ei ilmoituksia saatavilla, ole hyvä ja katso myöhemmin uudestaan.
+Sulje
+Tekijät
+Haluatko kirjautua ulos Facebookista?
+Pysy kirjautuneena
+Kirjauduttu ulos ja Facebook data tyhjennetty.
+Lataa Brain It On! mobiililaitteellesi avataksesi kaikki pulmat.
+Onnittelut! Olet avannut {0}.
+Hienoa
+Yhdistetään kauppaan...
+Tapahtui virhe yhdistäessä kauppaan. Ole hyvä ja yritä uudestaan.
+Ostoksesi on palautettu.
+Osta
+Ostos suoritettu. Kiitos tuestasi!
+Ei nyt
+Kiitos pienten pelinkehittäjien tukemisesta!
+Asetukset
+Palauta ostokset
+Nollaa peli
+Tulossa pian...
+Kirjaudu sisään
+Kirjaudu ulos
+Ei mainoksia
+Pahoittelut, mutta kirjautuminen Facebookin kautta on tällä hetkellä mahdollinen vain mobiililaitteilla.
+Onnittelut!
+Osta nyt
+Ratkaistu
+Halutko varmasti lopettaa?
+Kyllä
+Ei
+Haluaisitko katsoa videon nähdäksesi vihjeen?
+Ole hyvä ja katso koko video nähdäksesi vihjeen.
+Vihje
+Virhe tapahtui ladattaessa videota. Ole hyvä ja tarkista että olet yhteydessä internetiin ja yritä uudelleen.
+Tasomuokkaaja
+Saavutukset
+Kauppa
+Avaa
+Selvitetty {0} kertaa
+Sinulla ei ole tarpeeksi tähtiä. Ole hyvä ja kerää lisää avataksesi tämän paketin.
+Kieli
+Parhaat tulokset
+Osta koko peli
+Avaa kaikki tasot
+Avaa kaikki vihjeet
+Poista mainokset
+(Hinta on alennettu jos olet ostanut jo aikasempia osia)
+Tavoite:
+Kokonaisaika: {0}
+Kuvioiden määrä: {0}
+Sign in using your Game Center to safeguard your progress and to play on multiple iOS devices.
+You must solve all the levels to unlock the community levels.
+Error contacting server, please try again later.
+The level editor is only available if you've purchased the full game.
+Are you sure you want to delete this level?
+Level deleted successfully.
+Valitse taso
+Nykyinen tilanne
+Katso video yrittää uudelleen ?
+Physics active on start
+Community Levels
+Ground
+Error loading level. Please upgrade to the latest version of the game.
+Kokeile
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Piirrä kuvio
+Aseta pallo osumaan vasempaan seinään
+Käännä kuvio oikealla
+Kaada lasi maahan
+Ota pallo pois kulhosta
+Aseta esine lasin sisälle
+Aseta ainostaan kaksi palloa lasiin
+Aseta esine pieneen laatikkoon
+Vie pallo pois alustalta
+Aseta pallo koskemaan maata
+Aseta esine koskemaan punaista aluetta
+Irroita kansi
+Nosta pallo maasta
+Saa pallo ulos purkista
+Tyhjennä alusta esineistä
+Nosta oranssi laatikko maasta
+Saa rengas koskettamaan oikeaan seinää
+Saa pallo koskettamaan vasempaa seinää
+Aseta pallo oranssiin laatikkoon
+Tasapainota alusta
+Saa pallo koskettamaan oikeaan seinää
+Saa pallo ulos säiliöstä
+Aseta pallo oranssiin laatikkoon 
+Saa pallo ulos vaasista
+Pyöräytä lasi ylösalaisin
+Saa pallo ulos muodosta
+Aseta pallot oranssiin laatikkoon 
+Saa pallo osumaan oikeaan seinään
+Aseta esine lasiin
+Aseta pallo oranssiin laatikkoon
+Aseta pallo oranssiin laatikkoon 
+Aseta pallo oranssiin laatikkoon 
+Aseta pallo oranssiin laatikkoon 
+Aseta esine oranssin laatikon sisälle
+Saa pallo ulos muodosta 
+Aseta pallo osumaan vasempaan sekä oikeaan seinään
+Aseta pallo koskemaan oikeaan seinään
+Aseta pallo koskemaan kattoon
+Aseta pallo osumaan oikeaan seinään 
+Aseta pallo oranssiin laatikkoon 
+Aseta pallo osumaan oikeaan seinään 
+Aseta pallo osumaan oikeaan seinään 
+Saa pallo ulos laatikosta
+Aseta pallot omiin laatikkoihinsa
+Aseta pallo oranssiin laatikkoon 
+Pyöräytä laatikko ympäri
+Käännä kuvio kyljelleen
+Aseta kuvio koskettamaan kattoa
+Aseta pallo osumaan vasempaan seinään 
+Aseta pallo osumaan vasempaan seinään
+Aseta esine osumaan oikeaan seinään
+Aseta oranssi pallo osumaan maahan
+Aseta esine koskemaan kattoa
+Aseta pallo koskemaan maata
+Aseta pallo osumaan vasempaan seinään 
+Aseta pallo oikeaan laatikkoon ja lankku vasempaan laatikkoon
+Aseta pallo koskemaan maata
+Nosta kolmio maasta
+Aseta lankku oranssiin laatikkoon 
+Aseta kolme palloa oranssiin laatikkoon 
+Ota kansi pois laatikon päältä
+Ota kuori pois kuvulta
+Aseta kuvio oranssiin laatikkoon 
+Aseta sama esine koskettamaan vasenta ja oikeaa seinää
+Aseta pallo oranssiin laatikkoon 
+Lajittele värikkäät pallot
+Aseta esine koskemaan maata
+Aseta pallo koskemaan oikeaan seinään
+Aseta pallo koskemaan oikeaan seinään
+Pysäytä molemmat rattaat
+Aseta esine koskemaan jokaista neljää seinää
+Aseta pallo koskemaan kattoa
+Aseta esine koskemaan vasenta seinää
+Aseta kuvio lasiin
+Aseta kuvio oranssiin laatikkoon 
+Aseta oranssi pallo osumaan oikeaan seinään 
+Aseta pallo osumaan oikeaan seinään 
+Aseta pallo lasiin
+Aseta kuvio koskettamaan oikeaan seinää 
+Aseta pallot omiin laatikoihin 
+Aseta magneetit koskettamaan
+Erota magneetit
+Aseta pallot osumaan maahan
+Lajittele väreittäin
+Saavutukset ovat saatavilla jos olet ostanut tämän pelin
+Selvitä {0} tasoa 3 tähdellä
+Selvitä {0} tasoa alittaen kuvioiden enimmäismäärän.
+Piirrä {0} kuviota.
+Selvitä {0} tasoa vain 1 muodolla.
+Selvitä {0} tasoa alle 1 sekunnissa.
+Selvitä {0} tasoa 5 sekuntia tavoitetta nopeammin
+Selvitä {0} tasoa 10 sekuntia tavoitetta nopeammin

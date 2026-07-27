@@ -1,0 +1,176 @@
+Resolví el nivel {0} en #BrainItOn
+con ☆☆☆.
+Compartir en Twitter
+Twitear
+Compartir en Facebook
+Publicar
+Escribir mensaje...
+Cargando...
+¿Deseas calificar este juego?
+Sí, ¡Por supuesto!
+Reportar un bug
+Ahora no
+Esta fila aún está bloqueada. Necesitas resolver 4 de 5 niveles en la fila anterior para desbloquearlo.
+Ok
+¿Deseas borrar tu progreso?
+Borrar Progreso
+Cancelar
+Noticias
+No hay noticias de momento, por favor compruébalo mas tarde.
+Cerrar
+Créditos
+¿Deseas desconectarte de Facebook?
+Seguir Conectado
+Desconectado y datos de Facebook borrados
+Descarga Brain It On! para tu dispositivo móvil y desbloquea todos los puzles 
+¡Felicidades! Has desbloqueado {0}
+¡Bien!
+Conectándose a la tienda...
+Lo sentimos, ha ocurrido un error al conectarse a la tienda, inténtalo mas tarde.
+Tu compra ha sido restaurada.
+Comprar
+Compra completa. ¡Gracias por tu apoyo!
+Ahora no.
+¡Gracias por apoyar a los pequeños desarrolladores independientes!
+Ajustes
+Restaurar Tienda
+Reiniciar Juego
+Próximamente...
+Conectar
+Desconectarse
+Sin publicidad
+Lo sentimos, la conexión a Facebook solo está disponible para dispositivos móviles por el momento.
+¡Felicidades!
+Comprar ahora
+Solucionado
+¿Seguro que quieres salir?
+Sí
+No
+¿Quieres ver un vídeo para tener una pista?
+Por favor ve todo el vídeo para tener una pista.
+Pista.
+Ocurrió un error al cargar el vídeo. Inténtalo de nuevo.
+Editor de niveles
+Logros
+Tienda
+Desbloquear
+Resuelto {0} veces
+Aún no tienes suficientes estrellas, por favor colecciona más para abrir este paquete.
+Idioma
+Mejor resultado
+Compra el juego completo
+Desbloquea todos los niveles
+Desbloquea todas las pistas
+Elimina la publicidad
+(El precio total es inferior si ya ha comprado artículos)
+Objetivo:
+Tiempo total: {0}
+Total figuras: {0}
+Incia sesión en Game Center para proteger tu progreso y poder acceder desde varios dispositivos iOS.
+You must solve all the levels to unlock the community levels.
+Error contacting server, please try again later.
+The level editor is only available if you've purchased the full game.
+Are you sure you want to delete this level?
+Level deleted successfully.
+Selecciona nivel
+Puntuación actual
+¿Ver video para reintentar?
+Physics active on start
+Community Levels
+Ground
+Error loading level. Please upgrade to the latest version of the game.
+Probar
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Dibuja una figura
+Haz que la bola golpee la pared izquierda
+Inclina la figura a la derecha
+Mueve el vaso hacia el suelo
+Saca la bola del cuenco
+Pon un objeto dentro del vaso
+Pon solo 2 bolas en el vaso
+Pon un objeto en el bote pequeño
+Saca la bola del soporte
+Haz que la bola toque el suelo
+Haz que un objeto toque el área roja
+Quita la tapa
+Levanta la bola
+Saca la bola del jarrón
+Quita todos los objetos de la plataforma
+Levanta la caja naranja
+Haz que el aro toque la pared derecha
+Haz que la bola toque la pared izquierda
+Pon la bola en la caja naranja
+Equilibra la plataforma
+Haz que la bola toque la pared derecha
+Saca la bola del contenedor
+Pon la bola en la caja naranja
+Saca la bola de la vasija
+Voltea el vaso
+Saca la bola de dentro de la figura
+Pon las bolas dentro de la caja naranja
+Haz que la bola golpee la pared derecha
+Pon un objeto dentro del vaso
+Pon la bola dentro de la caja naranja
+Pon la bola dentro de la caja naranja
+Pon la bola dentro de la caja naranja
+Pon la bola dentro de la caja naranja
+Pon un objeto dentro de la caja naranja
+Saca la bola de dentro de la figura
+Haz que la bola golpee las paredes izquierda y derecha
+Haz que la bola toque la pared derecha
+Haz que la bola toque el techo
+Haz que la bola golpee la pared derecha
+Pon la bola en la caja naranja
+Haz que la bola golpee la pared derecha
+Haz que la bola golpee la pared derecha
+Saca la bola naranja de la caja
+Pon las bolas en sus respectivas cajas
+Pon las bolas en la caja naranja
+Voltea la caja
+Mueve la figura a su respectivo lado
+Haz que la figura toque el techo
+Haz que la bola golpee la pared izquierda
+Haz que la bola golpee la pared izquierda
+Haz que un objeto golpee la pared derecha
+Haz que la bola naranja golpee el suelo
+Haz que un objeto toque el techo
+Haz que la bola toque el suelo
+Haz que la bola golpee la pared izquierda
+Pon la bola en la caja derecha y la tabla en caja izquierda
+Haz que la bola toque el suelo
+Levanta el triángulo del suelo
+Pon la tabla en la caja naranja
+Pon las tres bolas en la caja naranja
+Quita la tapa de la caja
+Quita la tapa de la cúpula
+Pon una figura dentro de la caja naranja
+Haz que el mismo objeto toque las paredes de izquierda y derecha
+Pon la bola en la caja naranja
+Clasifica las bolas de colores
+Haz que un objeto toque el suelo
+Haz que la bola toque la pared derecha
+Haz que la bola toque la pared derecha
+Detén ambos engranajes
+Haz que un objeto toque las cuatro paredes
+Haz que las pelotas toquen el techo
+Haz que un objeto toque la pared izquierda
+Pon la forma dentro del vaso
+Pon un objeto dentro de la caja naranja
+Haz que la bola naranja toque la pared derecha
+Haz que la bola toque la pared derecha
+Mete la bola en el vaso
+Haz que la figura toque la pared derecha
+Pon las bolas en sus respectivas cajas
+Haz que los imanes se toquen
+Separa los imanes
+Haz que las pelotas toquen el suelo
+Clasifica por colores
+Los logros están disponibles si has adquirido el juego.
+Resuelve {0} niveles con 3 estrellas.
+Resuelve {0} niveles con menos figuras que el objetivo.
+Dibuja {0} figuras.
+Resuelve {0} niveles con 1 sola figura.
+Resuelve {0} niveles en menos de 1 segundo.
+Resuelve {0} niveles 5 segundos por debajo del tiempo objetivo.
+Resuelve {0} niveles 10 segundos por debajo del tiempo objetivo.

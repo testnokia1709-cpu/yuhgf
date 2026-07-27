@@ -1,0 +1,176 @@
+Jag löste bana {0} i #BrainItOn
+med ☆☆☆.
+Dela på Twitter
+Twittra
+Dela på Facebook
+Skicka
+Skriv ett meddelande ...
+Laddar ...
+Skulle du vilja betygsätta spelet?
+Ja, gärna!
+Rapportera en bugg
+Inte nu
+Denna rad är låst. Du måste lösa 4 av 5 banor i den föregående raden för att låsa upp denna rad.
+OK
+Vill du rensa din speldata?
+Rensa speldata
+Avbryt
+Anslagstavla
+Inga meddelanden just nu, kolla gärna igen lite senare.
+Stäng
+Medverkande
+Vill du logga ut från Facebook?
+Fortsätt vara inloggad
+Utloggad från Facebook och dina användaruppgifter är borttagna.
+Ladda ner Brain It On! till din mobil för att låsa upp alla pussel.
+Grattis! Du har låst upp {0}.
+Snyggt
+Ansluter till butiken ...
+Vi beklagar, ett problem uppstod när vi anslöt till butiken, försök igen lite senare.
+Dina köp har blivit återställda.
+Köp
+Köpet har godkänts. Tack för ditt stöd!
+Inte nu
+Tack för du stödjer små indie-spelskapare!
+Inställningar
+Återställ köp
+Återställ speldata
+Kommer snart ...
+Logga in
+Logga ut
+Ingen reklam
+Ledsen, Facebook-inloggningar är bara tillgängliga via mobiltelefoner för tillfället.
+Grattis!
+Köp nu
+Avklarad
+Är du säker på att du vill avsluta?
+Ja
+Nej
+Kolla på ett videoklipp för att få en ledtråd?
+Kolla på hela videoklippet för att få en ledtråd.
+Ledtråd
+Ett problem uppstod när videon laddades. Se till så att du har en internetuppkoppling och försök igen.
+Nivå-redigerare
+Prestationer
+Butik
+Lås upp
+Klarad {0} gånger
+Du har inte tillräckligt med stjärnor än, samla ihop fler för att låsa upp detta paket.
+Språk
+Bästa resultat
+Köp hela spelet
+Lås upp alla nivåer
+Lås upp alla ledtrådar
+Visa ingen reklam
+(Priset är nedsatt om du redan har köpt saker)
+Mål:
+Totaltiden: {0}
+Antal figurer: {0}
+Logga in via Game Center för att garantera att dina framsteg inte försvinner och för att kunna spela på flera iOS-enheter
+Du måste lösa alla banor för att låsa upp användarbanorna.
+Det blev fel i kontakten med servern, försök senare.
+Ban-editorn kan du bara leka med om du köper hela spelet.
+Är du säker på att du vill radera denna bana?
+Banan har raderats.
+Välj nivå
+Din nuvarande poäng
+Titta på en video för att försöka igen ?
+Physics active on start
+Community Levels
+Ground
+Error loading level. Please upgrade to the latest version of the game.
+Try
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Rita en figur
+Få bollen att nudda den vänstra väggen
+Tippa över figuren till höger sida
+Vält glaset på marken
+Få bollen ur skålen
+Placera ett objekt inne i glaset
+Placera endast två bollar i glaset
+Placera ett objekt i den lilla lådan
+Få bollen av hyllan
+Få bollen att nudda marken
+Få ett objekt att nudda det röda området
+Ta av korken
+Lyft bollen från marken
+Få ut bollen från krukan
+Rensa plattformen från alla objekt
+Lyft den oranga lådan av marken
+Få ringen att nudda den högra väggen
+Få bollen att nudda den vänstra väggen
+Placera bollen i den oranga lådan
+Balansera plattformen
+Få bollen att nudda den högra väggen
+Få ur bollen ur behållaren
+Placera bollen i den oranga lådan
+Få upp bollen ur vasen
+Vänd glaset upp-och-ner
+Få bollen ur figuren
+Placera bollarna i den oranga lådan
+Få bollen att träffa den högra väggen
+Placera ett objekt i glaset
+Placera bollen i den oranga lådan
+Placera bollen i den oranga lådan
+Placera bollen i den oranga lådan
+Placera bollen i den oranga lådan
+Placera ett objekt i den oranga lådan
+Få upp bollen ur figuren
+Få bollen att nudda den vänstra och högra väggen
+Få bollen att nudda den högra väggen
+Få bollen att nudda taket
+Få bollen att nudda den högra väggen
+Placera bollen i den oranga lådan
+Få bollen att nudda den högra väggen
+Få bollen att nudda den högra väggen
+Få den oranga bollen ut ur lådan
+Placera bollarna i deras lådor
+Placera bollen i den oranga lådan
+Vänd lådan upp och ner
+Tippa över figuren på sidan
+Få figuren att nudda taket
+Få bollen att nudda den vänstra väggen
+Få bollen att nudda den vänstra väggen
+Få ett objekt att nudda den högra väggen
+Få den oranga bollen att nudda marken
+Få ett objekt att nudda taket
+Få bollen att nudda marken
+Få bollen att nudda den vänstra väggen
+Placera bollen i den högra lådan och plankan i den vänstra lådan
+Få bollen att nudda marken
+Lyft triangeln från marken
+Placera plankan i den oranga lådan
+Placera tre bollar i den oranga lådan
+Ta av locket från lådan
+Ta av toppen från kupolen
+Placera en figur i den oranga lådan
+Få samma objekt att nudda den vänstra och högra väggen
+Placera bollen i den oranga lådan
+Sortera de färgade bollarna
+Få en figur att nudda marken
+Få bollen att nudda den högra väggen
+Få bollen att nudda den högra väggen
+Stoppa båda kugghjulen
+Få ett objekt att nudda alla fyra väggarna
+Få bollarna att nudda taket
+Få ett objekt att nudda den vänstra väggen
+Placera en figur inne i glaset
+Placera ett objekt inuti den oranga lådan
+Få den oranga bollen att nudda den högra väggen
+Få bollen att nudda den högra väggen
+Placera bollen i glaset
+Få figuren att nudda den högra väggen
+Placera bollarna i deras lådor
+Få magneterna att nudda varandra
+Separera magneterna från varandra
+Få bollen att nudda marken
+Sortera efter färg
+Prestationer är tillgängliga om du har köpt spelet.
+Klara {0} nivåer med 3 stjärnor.
+Klara {0} nivåer under figurmålet. 
+Rita {0} figurer.
+Klara {0} nivåer med bara 1 figur.
+Klara {0} nivåer under 1 sekund.
+Klara {0} nivåer fem sekunder under tidsgränsen.
+Klara {0} nivåer tio sekunder under tidsgränsen.

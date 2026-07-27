@@ -1,0 +1,176 @@
+Jeg løste nivå {0} i #BrainItOn
+med ☆☆☆.
+Del på Twitter
+Tweet
+Del på Facebook
+Del
+Skriv melding...
+Laster...
+Vil du rangere dette spillet?
+Ja, gjerne!
+Rapporter en feil
+Ikke nå
+Denne raden er fortsatt låst. Du må løse 4 av 5 nivåer i forrige rad for å låse den opp.
+Ok
+Vil du slette all din fremgang?
+Slett fremgang
+Avbryt
+Varsel tavle
+Ingen varsler tilgjengelig, sjekk igjen senere.
+Lukk
+Takk til
+Vil du logge av Facebook?
+Fortsett tilkobling
+Logget ut og Facebook data fjernet.
+Last ned BrainItOn på din mobile enhet for å åpne alle nivåene.
+Gratulerer! Du har åpnet {0}.
+Bra
+Kobler til butikken...
+Beklager, en feil skjedde med å kontakte butikken, prøv igjen senere.
+Dine kjøp har blitt gjenoppretter.
+Kjøp
+Kjøp fullført. Takk for ditt bidrag!
+Ikke nå
+Takk for at du støtter små, uavhengige utviklere!
+Innstillinger
+Gjenopprett kjøp
+Nullstill spill
+Kommer snart...
+Logg inn
+Logg ut
+Ingen reklame
+Beklager, innlogging med Facebook støttes foreløbig bare på mobile enheter.
+Gratulerer!
+Kjøp nå
+Løst
+Er du sikker på at du vil avslutte?
+Ja
+Nei
+Se en video for å få en hint?
+Vennligst se hele videoen for å få et hint.
+Hint
+En feil skjedde når vi prøvde laste videoen, vennligst sjekk at du er koblet til internett og prøv igjen.
+Nivåredigering
+Prestasjoner
+Butikk
+Lås opp
+Løst {0} ganger
+Du har ikke nok stjerner enda, vennligst samle flere for å åpne denne pakken.
+Språk
+Beste resultat
+Kjøp det fulle spillet
+Åpner alle nivåer
+Åpner alle hint
+Fjerner all reklame
+(Prisen er rabattert om du allerede har kjøpt noe)
+Mål:
+Total tid: {0}
+Total figurer: {0}
+Logg på med Game Center-kontoen dis for å beskytte fremgangen din og spille på flere iOS-enheter.
+You must solve all the levels to unlock the community levels.
+Error contacting server, please try again later.
+The level editor is only available if you've purchased the full game.
+Are you sure you want to delete this level?
+Level deleted successfully.
+Velg nivå
+Din nåværende poengsum
+Se en video for å prøve igjen?
+Physics active on start
+Community Levels
+Ground
+Error loading level. Please upgrade to the latest version of the game.
+Try
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Tegn en figur
+Få ballen til å treffe venstre vegg
+Tipp figuren til høyre
+Tipp glasset på bakken
+Få ballen ut av bollen
+Plasser et objekt i glasset
+Plasser kun 2 baller i glasset
+Plasser et objekt i den lille boksen
+Få ballen av pallen
+Få ballen til å ta borti bakken
+Få et objekt til å ta på det røde området
+Fjern korken
+Løft ballen opp fra bakken
+Få ballen ut av glasset
+Fjern alle objekter fra plattformen
+Løft den oransje boksen fra bakken
+Få ringen til å ta borti den høyre veggen
+Få ballen til å ta borti den venstre veggen
+Plasser ballen i den oransje boksen
+Balanser plattformen
+Få ballen til å ta borti den høyre veggen
+Få ballen ut av beholderen
+Plasser ballen i den oransje boksen
+Få ballen ut av vasen
+Snu glasset oppned
+Få ballen ut av figuren
+Plasser ballene i den oransje boksen
+Få ballen til å treffe den høyre veggen
+Plasser et objekt i glasset
+Plasser ballen i den oransje boksen
+Plasser ballen i den oransje boksen
+Plasser ballen i den oransje boksen
+Plasser ballen i den oransje boksen
+Plasser et objekt i den oransje boksen
+Få ballen ut av figuren
+Få ballen til å treffe venstre og høyre vegg
+få ballen til å ta borti høyre vegg
+Få ballen til å ta borti taket
+Få ballen til å treffe høyre vegg
+Plasser ballen i den oransje boksen
+Få ballen til å treffe høyre vegg
+Få ballen til å treffe høyre vegg
+Få den oransje ballen ut av boksen
+Plasser ballene i boksene sine
+Plasser ballen i den oransje boksen
+Tipp boksen
+Tipp figuren på siden
+Få figuren til å treffe taket
+Få ballen til å treffe venstre vegg
+Få ballen til å treffe venstre vegg
+Få et objekt til å treffe høyre vegg
+Få den oransje ballen til å treffe bakken
+få et objekt til å ta borti taket
+Få ballen til å ta borti bakken
+Få ballen til å treffe venstre vegg
+Plasser ballen i den høyre boksen og planken i den venstre boksen
+Få ballen til å ta borti bakken
+Løft trekanten opp fra bakken
+Plasser planken i den oransje boksen
+Plasser 3 baller i den oransje boksen
+Ta korken av boksen
+Ta skallet av kuppelen
+plasser en figur i den oransje boksen
+Få et objekt til å treffe både venstre og høyre vegg
+Plasser ballen i den oransje boksen
+Sorter de fargede ballene
+Få et objekt til å treffe bakken
+Få ballen til å ta borti høyre vegg
+Få ballen til å ta borti høyre vegg
+Stopp begge girene
+Få et objekt til å treffe alle 4 vegger
+Få ballene til å ta borti taket
+Få et objekt til å ta borti venstre vegg
+Plasser en figur i glasset
+Plasser et objekt i den oransje boksen
+Få den oransje ballen til å ta borti høyre vegg
+Få ballen til å ta borti høyre vegg
+Plasser ballen i glasset
+Få en figur til å ta borti høyre vegg
+Plasser ballene i boksene sine
+Få magnetene til å treffe hverandre
+Skill magnetene
+Få ballene til å ta borti bakken
+Sorter etter farge
+Prestasjoner er tilgjengelige etter du har kjøpt spillet
+Løs {0} nivåer med 3 stjerner.
+Løs {0} nivåer under figur målet
+Tegn {0} figurer.
+Løs {0} nivåer med bare 1 figur
+Løs {0} nivåer på under 1 sekund
+Løs {0} nivåer 5 sekunder under tidsmålet
+Løs {0} nivåer 10 sekunder under tidsmålet

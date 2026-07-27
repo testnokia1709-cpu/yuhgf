@@ -1,0 +1,176 @@
+Rwyf wedi datrys lefel {0} yn #BrainItOn
+gyda 
+Rhannu ar Twitter
+Trydaru
+Rhannu ar Facebook
+Postio
+Ysgrifennu neges...
+Wrthi'n llwytho...
+Hoffet ti sgorio'r gêm yma?
+Iawn, pam lai!
+Rhoi gwybod am chwilen
+Ddim nawr
+Mae'r rhes yma dal wedi cloi. Rhaid i ti ddatrys 4 o'r 5 lefel yn y rhes flaenorol i'w ddatgloi.
+Iawn
+Wyt ti eisiau clirio dy gynnydd?
+Clirio'r Cynnydd
+Canslo
+Hysbysfwrdd
+Dim hysbysiadau ar gael, edrycha eto yn nes ymlaen.
+Cau
+Credydau
+Hoffet ti allgofnodi o Facebook?
+Aros wedi cysylltu
+Wedi allgofnodi o Facebook a chlirio'r data.
+Lawrlwytha Brain It On! ar gyfer dy ddyfais symudol i ddatgloi pob set o bosau.
+Llongyfarchiadau! Rwyt ti wedi datgloi {0}.
+Gwych
+Wrthi'n cysylltu â'r siop...
+Mae'n flin gennym, roedd gwall wrth gysylltu â'r siop, rho gynnig arall arni yn nes ymlaen.
+Mae dy bryniannau wedi cael eu hadfer.
+Prynu
+Wedi cwblhau prynu. Diolch am dy gefnogaeth!
+Ddim nawr
+Diolch am gefnogi datblygwyr bach annibynnol!
+Gosodiadau
+Adfer Pryniannau
+Ailosod y Gêm
+Yn dod yn fuan...
+Mewngofnodi
+Allgofnodi
+Dim Hysbysebion
+Mae'n flin gennym, dim ond ar ddyfeisiau symudol y gellir mewngofnodi i Facebook ar hyn o bryd.
+Llongyfarchiadau!
+Brynu Nawr
+Wedi Datrys
+Ydych chi'n siŵr eich bod am roi'r gorau iddi?
+Ie
+Na
+Gwyliwch fideo i gael awgrym?
+Os gwelwch yn dda gwyliwch y fideo cyfan i gael awgrym.
+Awgrym
+Digwyddodd gwall yn llwytho eich fideo. Ceisiwch eto yn nes ymlaen.
+Level Editor
+Cyflawniadau
+Storfa
+Datgloi
+Datryswyd {0} tro
+Nid oes gennych chi ddigon o sêr eto, casglwch fwy i ddatgloi'r pecyn yma.
+Iaith
+Canlyniadau gorau
+Prynu'r gêm lawn
+Yn datgloi pob lefel
+Yn datgloi pob awgrym
+Yn cael gwared â'r hysbysebion
+(Mae gostyngiad i'r pris os ydych eisoes wedi prynu eitemau)
+Nod:
+Hyd yr amser: {0}
+Nifer y siapau: {0}
+Mewngofnowch gan ddefnyddio'ch Game Centre i amddiffyn eich cynnydd a chwarae ar amryw ddyfeisiau iOS.
+Rhaid i chi ddatrys pob lefel i ddagloi'r lefelau cymunedol.
+Gwall yn cysylltu â'r gweinydd, rhowch gynnig arall arni nes ymlaen.
+Mae'r golygydd lefelau ar gael os ydych wedi prynu'r gêm llawn yn unig.
+Ydych chi'n siŵr eich bod am ddileu'r lefel yma?
+Wedi llwyddo dileu'r lefel.
+Dewiswch lefel
+Eich sgôr cyfredol
+Gwylio fideo i drio eto?
+Physics active on start
+Community Levels
+Ground
+Error loading level. Please upgrade to the latest version of the game.
+Brofi
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Tynna siâp
+Gwna i'r bêl daro'r wal chwith
+Tipia'r siâp i'r dde
+Tipia'r gwydr ar y llawr
+Tynna'r bêl allan o'r fowlen
+Rho eitem y tu mewn i'r gwydr
+Rho dwy bêl yn unig i mewn i'r gwydr
+Rho eitem yn y blwch bach
+Cymera'r bêl i ffwrdd o'r silff
+Gwna i'r bêl gyffwrdd â'r llawr
+Gwna i eitem gyffwrdd â'r ardal goch
+Tynna'r cap
+Coda'r bêl o'r llawr
+Cymera'r bêl allan o'r jar
+Cliria'r holl eitemau o'r platfform
+Coda'r blwch oren o'r llawr
+Gwna i'r cylchyn gyffwrdd â'r wal de
+Gwna i'r bêl gyffwrdd â'r wal chwith
+Rho'r bêl yn y blwch oren
+Cydbwysa'r platfform
+Gwna i'r bêl gyffwrdd y wal de
+Tynna'r bêl o'r cynhwysydd
+Rho'r bêl yn y blwch oren
+Tynna'r bêl o'r fâs
+Fflipia'r gwydr ben i waered
+Tynna'r bêl o'r siâp
+Rho'r peli yn y blwch oren
+Gwna i'r bêl daro'r wal de
+Rho eitem y tu mewn i'r gwydr
+Rho'r bêl yn y blwch oren
+Rho'r bêl yn y blwch oren
+Rho'r bêl yn y blwch oren
+Rho'r bêl yn y blwch oren
+Rho eitem y tu mewn i'r blwch oren
+Tynna'r bêl allan o'r siâp
+Gwna i'r bêl daro'r wal chwith a'r wal de
+Gwna i'r bêl gyffwrdd â'r wal de
+Gwna i'r bêl gyffwrdd â'r nenfwd
+Gwna i'r bêl daro'r wal de
+Rho'r bêl yn y blwch oren
+Gwna i'r bêl daro'r wal de
+Gwna i'r bêl daro'r wal de
+Tynna'r bêl oren allan o'r blwch
+Rho'r peli yn eu blychau
+Rho'r bêl yn y blwch oren
+Fflipia'r blwch drosodd
+Tipia'r siâp ar ei ochr
+Gwna i'r siâp gyffwrdd â'r nenfwd
+Gwna i'r bêl daro'r wal chwith
+Gwna i'r bêl daro'r wal chwith
+Gwna i eitem daro'r wal de
+Gwna i'r bêl oren daro'r ddaear
+Gwna i eitem gyffwrdd â'r nenfwd
+Gwna i'r bêl gyffwrdd â'r ddaear
+Gwna i'r bêl daro'r wal chwith
+Rho'r bêl yn y blwch ar y dde a'r astell yn y blwch ar y chwith
+Gwna i'r bêl gyffwrdd â'r ddaear
+Coda'r triongl o'r ddaear
+Rho'r astell yn y blwch oren
+Rho tair pêl yn y blwch oren
+Cymera'r cap i ffwrdd o'r blwch
+Cymera'r cap i ffwrdd o'r gromen
+Rho siâp yn y blwch oren
+Gwna i'r un eitem gyffwrdd â'r wal chwith a'r wal de
+Rho'r bêl yn y blwch oren
+Rho'r peli lliw mewn trefn
+Gwna i eitem gyffwrdd â'r ddaear
+Gwna i'r bêl gyffwrdd â'r wal de
+Gwna i'r bêl gyffwrdd â'r wal de
+Stopia'r ddau gêr
+Gwna i eitem gyffwrdd â'r pedair wal
+Gwnewch y peli yn cyffwrdd y nenfwd
+Gwna i eitem gyffwrdd â'r wal chwith
+Rho eitem y tu mewn i'r gwydr
+Rho eitem y tu mewn i'r blwch oren
+Gwna i'r bêl oren gyffwrdd â'r wal de
+Gwna i'r bêl gyffwrdd â'r wal de
+Rho'r bêl yn y gwydr
+Gwna i'r siâp gyffwrdd â'r wal de
+Rho'r peli yn eu blychau
+Gwnewch y magnetau cyffwrdd
+Gwahanwch y magnetau
+Gwnewch y peli yn cyffwrdd y ddaear
+Sort by color
+Mae cyraeddiadau ar gael os ydych chi wedi prynu'r gêm.
+Datrys {0} lefel gyda 3 seren.
+Datrys {0} lefel yn well na'r nod siâp.
+Tynnu llun {0} siâp.
+Datrys {0} lefel gydag 1 siâp yn unig.
+Datrys {0} lefel mewn llai nag 1 eiliad.
+Datrys {0} lefel 5 eiliad cyn y nod amser.
+Datrys {0} lefel 10 eiliad cyn y nod amser.

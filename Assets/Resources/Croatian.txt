@@ -1,0 +1,176 @@
+Rješio sam nivo {0} u #BrainItOn
+sa ☆☆☆.
+Podijeli na Twitteru
+Tweetaj
+Podijeli na Facebooku
+Pošalji
+Unesi poruku...
+Učitavanje...
+Da bi htio ocijeniti ovu igru?
+Da, naravno!
+Prijavi grešku
+Ne sada
+Ovar red je još zaključan. Trebaš rješiti 4 od 5 nivoa u prijašnjem redu da bi ga otključao.
+OK
+Da li želiš obrisati napredak u svojoj igri?
+Obriši napredak
+Prekini
+Ploča obavijesti
+Nema obavijesti, dođi provjeriti kasnije.
+Zatvori
+Zasluge
+Da li se želiš odjaviti iz Facebooka?
+Ostani povezan
+Odjavljen iz Facebooka i podaci obrisani.
+Skini Brain It On! na svoj mobilni uređaj da bi otključao sve setove zagonetki.
+Čestitke! Otključao si {0}.
+Zgodno
+Spajanje na trgovinu...
+Žao nam je, tijekom spajanja na trgovinu se dogodila greška, molimo pokušajte ponovno.
+Tvoje su kopovine povraćene.
+Kupovina
+Kupovina završena. Hvala ti na tvojoj podršci!
+Ne sada
+Hvala što potpomažeš male nezavisne programere!
+Postavke
+Povrati kupovine
+Poništi igru
+Dolazi uskoro...
+Prijavi se
+Odjavi se
+Bez oglasa
+Žao nam je, prijava preko Facebooka dostupna je samo na mobilnim uređajima trenutno.
+Čestitke!
+Kupi sada
+Rješeno
+Jesi li siguran da želiš prekinuti?
+Da
+Ne
+Pogledaj video da dobiješ nagovještaj?
+Molimo, pogledaj cijeli video da bi dobio nagovještaj.
+Nagovještaj
+Dogodila se greška pri učitavanju videa. Molimo, osigurajte da ste spojeni na Internet i pokušajte ponovno.
+Urednik nivoa
+Dostignuća
+Trgovina
+Otključaj
+Rješeno {0} puta
+Nemaš još dovoljno zvjezdica, molimo skupi još da bi otključao ovaj paket.
+Jezik
+Najbolji rezultati
+Kupi cijelu igru
+Otključava sve nivoe
+Otključava sve nagovještaje
+Uklanja sve oglase
+(Cijena je snižena ukoliko si već kupovao predmete)
+Cilj:
+Ukupno vrijeme: {0}
+Ukupno oblika: {0}
+Prijavi se koristeći svoj Centar Igara da zaštitiš svoj napredak i da bi igrao na više iOS uređaja.
+You must solve all the levels to unlock the community levels.
+Error contacting server, please try again later.
+The level editor is only available if you've purchased the full game.
+Are you sure you want to delete this level?
+Level deleted successfully.
+Odaberite razinu
+Vaša trenutna ocjena
+Pogledajte video snimku pokušati ponovno ?
+Physics active on start
+Community Levels
+Ground
+Error loading level. Please upgrade to the latest version of the game.
+Try
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Nacrtaj oblik
+Natjeraj loptu da udari u lijevi zid
+Nagni oblik na desno
+Sruši čašu na tlo
+Istjeraj loptu iz zdjele
+Stavi objekt u čašu
+Stavi samo dvije lopte u čašu
+Stavi objekt u malu kutiju
+Makni loptu sa stalka
+Natjeraj loptu da dodirne tlo
+Natjeraj objekt da dodirne crvenu površinu
+Ukloni čep
+Podigni loptu sa tla
+Izvadi loptu iz tegle
+Očisti sve objekte sa platforme
+Podigni narančastu kutiju sa tla
+Napravi da prsten dodirne desni zid
+Natjeraj loptu da dodirne lijevi zid
+Stavi loptu u narančastu kutiju
+Balansiraj platformu
+Natjeraj loptu da dodirne desni zid
+Izvadi loptu iz spremnika
+Stavi loptu u narančastu kutiju
+Izvadi loptu iz vaze
+Preokreni čašu
+Izvadi loptu iz oblika
+Stavi lopte u narančastu kutiju
+Natjeraj loptu da udari u desni zid 
+Stavi objekt u čašu
+Stavi loptu u narančastu kutiju
+Stavi loptu u narančastu kutiju
+Stavi loptu u narančastu kutiju
+Stavi loptu u narančastu kutiju
+Stavi objekt u narančastu kutiju
+Izvadi loptu iz oblika
+Natjeraj loptu da udari u lijevi i desni zid
+Natjeraj loptu da dodirne desni zid
+Natjeraj loptu da dodirne strop
+Natjeraj loptu da udari u desni zid
+Stavi loptu u narančastu kutiju
+Natjeraj loptu da udari u desni zid
+Natjeraj loptu da udari u desni zid
+Izvadi narančastu loptu iz kutije
+Stavi lopte u njihove kutije
+Stavi loptu u narančastu kutiju
+Preokreni kutiju
+Sruši oblik na stranu
+Natjeraj oblik da dodirne strop
+Natjeraj loptu da udari u lijevi zid
+Natjeraj loptu da udari u lijevi zid
+Natjeraj objekt da udari u desni zid
+Natjeraj narančastu loptu da udari u tlo
+Natjeraj objekt da dodirne strop
+Natjeraj loptu da dodirne tlo
+Natjeraj loptu da udari u lijevi zid
+Stavi loptu u desnu kutiju a dasku u lijevu kutiju
+Natjeraj loptu da dodirne tlo
+Podigni trokut sa tla
+Stavi dasku u narančastu kutiju
+Stavi tri lopte u narančastu kutiju
+Skini čep s kutije
+Skini školjku s kupole
+Stavi oblik u narančastu kutiju
+Natjeraj isti objekt da dodirne lijevi i desni zid
+Stavi loptu u narančastu kutiju
+Sortiraj obojene lopte
+Natjeraj objekt da dodirne tlo
+Natjeraj loptu da dodirne desni zid
+Natjeraj loptu da dodirne desni zid
+Zaustavi oba zupčanika
+Natjeraj objekt da dodirne sva četiri zida
+Natjeraj lopte da dodirnu strop
+Natjeraj objekt da udari u lijevi zid
+Stavi oblik u čašu
+Stavi objekt u narančastu kutiju
+Natjeraj narančastu loptu da dodirne desni zid
+Natjeraj loptu da dodirne desni zid
+Stavi loptu u čašu
+Natjeraj oblik da dodirne desni zid
+Stavi lopte u njihove kutije
+Natjeraj da se magneti dodirnu
+Odvoji magnete
+Natjeraj lopte da dodirnu tlo
+Sortiraj po boji
+Dostignuća su dostupna ukoliko si kupio igru.
+Rješi {0} nivoa sa 3 zvjezdice.
+Rješi {0} nivoa s manje od zahtjevanih oblika.
+Nacrtaj {0} oblika.
+Rješi {0} nivoa sa samo 1 oblikom.
+Rješi {0} nivoa u manje od 1 sekunde.
+Rješi {0} nivoa za 5 sekundi manje od zahtjevanog vremena.
+Rješi {0} nivoa za 10 sekundi manje od zahtjevanog vremena.

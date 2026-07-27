@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - Dangerous
+  - Smelly
+  - Fire
+  - KeepCollision
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Vehicles
+  - Characters
+  - Floor
+  - Objects
+  - 
+  - 
+  - 
+  - Overlay
+  - HiddenUI
+  - UserInterface
+  - Background
+  - 
+  - ObjectType1
+  - ObjectType2
+  - ObjectType3
+  - 
+  - 
+  - GroundDrawCollision
+  - NoDraw
+  - HiddenObjects
+  - 
+  - 
+  - 
+  - EveryplayHUDCamera
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1093696345
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 1859086223
+    locked: 0
+  - name: Characters
+    uniqueID: 3940858523
+    locked: 0
+  - name: UI
+    uniqueID: 771169021
+    locked: 0

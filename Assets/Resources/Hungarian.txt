@@ -1,0 +1,176 @@
+Megoldottam {0} pályát a #BrainItOn játékban
+☆☆☆ csillaggal.
+Megosztás Twitteren
+Küldés
+Megosztás Facebookon
+Küldés
+Üzenet megadása...
+Betöltés...
+Szeretnéd értékelni a játékot?
+Igen, persze!
+Hiba jelentése
+Most nem
+Ez a sor még zárolva van. Az előző sor 5 pályájából 4-et meg kell oldanod a feloldáshoz.
+Ok
+Ki akarod törölni az állásod?
+Állás törlése
+Mégse
+Hirdetőtábla
+Nincs elérhető értesítés, nézz vissza később.
+Bezárás
+Készítők
+Szeretnél kijelentkezni Facebookról?
+Belépve maradok
+Kijelentkezve, és Facebook adatok törölve.
+Töltsd le a Brain It On! játékot mobil eszközödre, hogy feloldj minden fejtörő szettet.
+Gratulálok! Feloldottad: {0}.
+Szép
+Csatlakozás a bolthoz...
+Sajnáljuk, hiba lépett fel a csatlakozás során. Később próbáld újra.
+Vásárlásaid helyreállítva.
+Megvásárlás
+Sikeres vásárlás. Köszönöm a támogatást!
+Most nem
+Köszönöm, hogy támogatod a kis indie fejlesztőket!
+Beállítások
+Vásárlások ellenőrzése
+Játék visszaállítása
+Hamarosan...
+Belépés
+Kilépés
+Nincs hirdetés
+Bocsi, Facebook belépés jelenleg csak mobil eszközökön támogatott.
+Gratulálok!
+Megveszem
+Megoldva
+Biztos ki akarsz lépni?
+Igen
+Nem
+Megnézel egy videót a tipphez?
+Kérlek, nézd végig a videót a tipphez.
+Tipp
+Hiba lépett fel a videó betöltésekor. Győződj meg róla, van interneted, és próbáld újra.
+Pályaszerkesztő
+Achievementek
+Bolt
+Felold
+{0} alkalommal megoldva
+Nincs még elég csillagod, kérlek gyűjts még a csomag feloldásához.
+Nyelv
+Legjobb eredmény
+Teljes játék megvétele
+Minden pálya feloldása
+Minden tipp feloldása
+Reklámok eltávolítása
+(Az ár kedvezményes, ha már vásároltál tételeket)
+Cél:
+Teljes idő: {0}
+Összes alakzat: {0}
+Sign in using your Game Center to safeguard your progress and to play on multiple iOS devices.
+You must solve all the levels to unlock the community levels.
+Error contacting server, please try again later.
+The level editor is only available if you've purchased the full game.
+Are you sure you want to delete this level?
+Level deleted successfully.
+Select szinten
+Az aktuális pontszám
+Nézzen meg egy videót, hogy próbálja meg újra ?
+Physics active on start
+Community Levels
+Ground
+Error loading level. Please upgrade to the latest version of the game.
+Próbáld ki
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Rajzolj egy alakzatot
+Lökd a labdát a bal falnak
+Döntsd az alakzatot jobbra
+Borítsd a poharat a földre
+Vedd ki a labdát a tálból
+Helyezz egy tárgyat a pohárba
+Helyezz két labdát a pohárba
+Helyezz egy tárgyat a kis dobozba
+Vedd le a labdát az állványról
+Érintsd a labdát a földhöz
+Érints egy tárgyat a piros területhez
+Vedd le a fedőt
+Emeld el a földtől labdát
+Vedd ki a labdát a korsóból
+Vegyél le minden tárgyat a platfomról
+Emeld el a földtől a narancs ládát
+Érintsd a karikát a jobb falhoz
+Érintsd a labdát a bal falhoz
+Helyezd a labdát a narancs dobozba
+Egyensúlyozd ki a platformot
+Érintsd a labdát a jobb falhoz
+Vedd ki a labdát a tárolóból
+Helyezd a labdát a narancs dobozba
+Vedd ki a labdát a vázából
+Fordítsd le a poharat
+Vedd ki a labdát az alakzatból
+Helyezd a labdákat a narancs dobozba
+Lökd a labdát a jobb falnak
+Helyezz egy tárgyat a pohárba
+Helyezd a labdát a narancs dobozba
+Helyezd a labdát a narancs dobozba
+Helyezd a labdát a narancs dobozba
+Helyezd a labdát a narancs dobozba
+Helyezz egy tárgyat a narancs dobozba
+Vedd ki a labdát az alakzatból
+Lökd a labdát a bal és a jobb falnak
+Érintsd a labdát a jobb falhoz
+Érintsd a labdát a plafonhoz
+Lökd a labdát a jobb falnak
+Helyezd a labdát a narancs dobozba
+Lökd a labdát a jobb falnak
+Lökd a labdát a jobb falnak
+Vedd ki a narancs labdát a dobozból
+Helyezd a labdákat a dobozaikba
+Helyezd a labdát a narancs dobozba
+Borítsd fel a dobozt
+Borítsd az alakzatot az oldalára
+Érintsd az alakzatot a plafonhoz
+Lökd a labdát a bal falnak
+Lökd a labdát a bal falnak
+Lökj egy tárgyat a jobb falnak
+Érintsd a narancs labdát a földhöz
+Érints egy tárgyat a plafonhoz
+Érintsd a labdát a földhöz
+Lökd a labdát a bal falnak
+Helyezd a labdát a jobb dobozba, a rudat a bal dobozba
+Érintsd a labdát a földhöz
+Emeld el a földtől a háromszöget
+Helyezd a rudat a narancs dobozba
+Helyezz három labdát a narancs dobozba
+Vedd le a fedőt a dobozról
+Vedd le a kupola burkát
+Helyezz egy alakzatot a narancs dobozba
+Érintsd meg ugyanazzal a tárggyal a bal és jobb falat
+Helyezd a labdát a narancs dobozba
+Válogasd ki a színes labdákat
+Érints egy tárgyat a földhöz
+Érintsd a labdát a jobb falhoz
+Érintsd a labdát a jobb falhoz
+Állítsd le mindkét kereket
+Érints egy tárgyat mind a négy falhoz
+Érintsd a labdákat a plafonhoz
+Érints egy tárgyat a bal falhoz
+Helyezz egy tárgyat a pohárba
+Helyezz egy tárgyat a narancs dobozba
+Érintsd a narancs labdát a jobb falhoz
+Érintsd a labdát a jobb falhoz
+Helyezd a labdát a pohárba
+Érintsd az alakzatot a jobb falhoz
+Helyezd a labdákat a dobozaikba
+Érintsd össze a mágneseket
+Szedd szét a mágneseket
+Érintsd a labdákat a földhöz
+Rendezz szín szerint
+Az achievementek elérhetők, ha megvetted a játékot.
+Oldj meg {0} pályát 3 csillaggal.
+Oldj meg {0} pályát az alakzatcél alatt.
+Rajzolj {0} alakzatot.
+Oldj meg {0} pályát egyetlen alakzattal.
+Oldj meg {0} pályát 1 mp alatt.
+Oldj meg {0} pályát 5 mp-cel az időkorlát alatt.
+Oldj meg {0} pályát 10 mp-cel az időkorlát alatt.

@@ -1,0 +1,176 @@
+Vyřešil jsem level {0} v #BrainItOn
+s ☆☆☆.
+Sdílet na Twittru
+Tweet
+Sdílet na Facebooku
+Poslat
+Zadej zprávu …
+Nahrávám …
+Chtěl bys ohodnotit hru?
+Ano, samozřejmě!
+Nahlásit chybu
+Teď ne
+Tento řádek je stále uzamknut. Nejprve musíš vyřešit 4 z 5 levlů na předchozím řádku.
+Ok
+Chceš vymazat celý tvůj postup ve hře?
+Vymazat postup
+Zrušit
+Tabule na poznámky
+Žádné nové informace, prosím zkus to později.
+Zavřít
+Zásluhy
+Chceš se odhlásit z Facebooku?
+Zůstat připojený
+Odhlášen a údaje z Facebooku smazány.
+Stáhni si Brain It on! do svého mobilu a odemkni všechny levely.
+Blahopřeji! Odemkl jsi {0}.
+Pěkně.
+Připojuji se do obchodu …
+Omlouváme se, došlo k chybě při připojování k obchodu, zkuste to prosím později.
+Tvoje nákupy byly obnoveny.
+Nákup
+Nákup kompletní. Děkuji ti za tvoji podporu.
+Teď ne
+Děkuji ti za podporu malých a indie vývojářů.
+Nastavení
+Obnovit nákupy
+Restartovat hru
+Už brzy …
+Přihlásit se
+Odhlásit se
+Bez reklam
+Omlouváme se, ale přihlášení na Facebooku je momentálně možné pouze z mobilního zařízení.
+Blahopřejeme!
+Koupit nyní
+Vyřešeno
+Jsi si jistý, že chceš skončit?
+Ano
+Ne
+Kouknout na video a získat radu?
+Prosím, koukni na celé video pro získání rady.
+Rada
+Došlo k chybě při načítání videa. Prosím, ujistěte se, že jste připojeni k internetu a zkuste to znovu.
+Editor levelů
+Úspěchy
+Obchod
+Odemknout
+Vyřešeno {0} krát
+Ještě nemáš dostatek hvězd, prosím, nasbírej jich víc pro odemknutí dalších levlů.
+Jazyk
+Nejlepší výsledek
+Koupit plnou hru
+Odemknout všechny levely
+Odemknout všechny rady
+Odstranit všechny reklamy
+(Cena je ponížena, pokud sis již něco zakoupil)
+Cíl:
+Celkový čas: {0}
+Počet tvarů: {0}
+Přihlas se do Game Centera pro ochranu tvého pokorou a pro hraní na více iOS zařízeních.
+You must solve all the levels to unlock the community levels.
+Error contacting server, please try again later.
+The level editor is only available if you've purchased the full game.
+Are you sure you want to delete this level?
+Level deleted successfully.
+Vybrat úroveň
+Vaše aktuální skóre
+Podívejte se na video zkusit to znovu ?
+Physics active on start
+Community Levels
+Ground
+Error loading level. Please upgrade to the latest version of the game.
+Try
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Nakresli tvar
+Míček se musí dotknout levé stěny
+Převrať tvar doprava
+Převrať sklenici na bok
+Dostaň míček z misky
+Umísti objekt do sklenice
+Umísti pouze dva míčky do sklenice
+Umísti objekt do malé krabice
+Dostaň míček z držáku
+Míček se musí dotknout země
+Objekt se musí dotknout červené zóny
+Odstraň krytku
+Zdvihni míček ze země
+Dostaň míček z nádoby
+Odstraň všechny objekty z police
+Zdvihni oranžovou krabici ze země
+Kruh se musí dotknout pravé stěny
+Míček se musí dotknout levé stěny
+Umísti míček do oranžové krabice
+Vyvaž houpačku
+Míček se musí dotknout pravé stěny
+Dostaň míček z nádoby
+Umísti míček do oranžové krabice
+Dostaň míček z nádoby
+Převrať sklenici vzhůru nohama
+Dostaň míček z nádoby
+Míčky se musí do oranžové krabice
+Míček se musí dotknout pravé stěny
+Umísti objekt do sklenice
+Umísti míček do oranžové krabice
+Umísti míček do oranžové krabice
+Umísti míček do oranžové krabice
+Umísti míček do oranžové krabice
+Umísti objekt do oranžové krabice
+Dostaň míček z nádoby
+Míček se musí dotknout levé i pravé stěny
+Míček se musí dotknout pravé stěny
+Míček se musí dotknout stropu
+Míček se musí dotknout pravé stěny
+Umísti míček do oranžové krabice
+Míček se musí dotknout pravé stěny
+Míček se musí dotknout pravé stěny
+Dostaň oranžový míček z krabice
+Dostaň míčky do jejich krabic
+Umísti míček do oranžové krabice
+Převrať nádobu vzhůru nohama
+Převrať objekt na bok
+Tvar se musí dotknout stropu
+Míček se musí dotknout levé stěny
+Míček se musí dotknout levé stěny
+Nějaký objekt se musí dotknout pravé stěny
+Oranžový míček se musí dotknout země
+Nějaký objekt se musí dotknout stropu
+Míček se musí dotknout země
+Míček se musí dotknout levé stěny
+Dostaň míček do pravé krabice a desku do levé
+Míček se musí dotknout země
+Zdvihni trojúhelník ze země
+Umísti desku do oranžové krabice
+Umísti tři míčky do oranžové krabice
+Odstraň krytku z krabice
+Odstraň obal z kupoli
+Umísti nějaký tvar do oranžové krabice
+Jeden tvar se musí dotknout levé i pravé stěny
+Umísti míček do oranžové krabice
+Roztřiď podle barev
+Nějaký objekt se musí dotknout země
+Míček se musí dotknout pravé stěny
+Míček se musí dotknout pravé stěny
+Zastav obě ozubená kola
+Nějaký objekt se musí dotknout všech stěn
+Míčky se musí dotknout stropu
+Nějaký objekt se musí dotknout levé stěny
+Umísti tvar do sklenice
+Umísti objekt do oranžové krabice
+Oranžový míček se musí dotknout pravé stěny
+Míček se musí dotknout pravé stěny
+Umísti míček do sklenice
+Tvar se musí dotknout pravé stěny
+Míčky se musí dostat do svých krabic
+Magnety se musí dotknout
+Odděl magnety
+Míčky se musí dotknout země
+Roztřiď podle barvy
+Úspěchy jsou k dispozici, pokud jsi hru koupil
+Vyřeš {0} levelů s 3 hvězdami.
+Vyřeš {0} levelů s menším počtem tvarů než je přiděleno.
+Nakresli {0} tvarů.
+Vyřeš {0} levelů pouze s 1 tvarem.
+Vyřeš {0} levely pod 1 sekundu.
+Vyřeš {0} levelů o 5 sekund rychleji než je přiděleno.
+Vyřeš {0} levelů o 10 sekund rychleji než je přiděleno.

@@ -1,0 +1,14 @@
+{
+  "name": "Stores",
+  "references": [
+    "Purchasing.Common",
+    "UnityEngine.Purchasing",
+    "ChannelPurchase",
+    "Apple",
+    "Security",
+    "winrt",
+    "Tizen",
+    "FacebookStore"
+  ],
+  "allowUnsafeCode": true
+}

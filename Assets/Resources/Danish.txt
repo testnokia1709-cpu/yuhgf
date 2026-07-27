@@ -1,0 +1,176 @@
+Jeg løste bane {0} i #BrainItOn
+med ☆☆☆.
+Del på Twitter
+Tweet
+Del på Facebook
+Send
+Skriv en besked...
+Tænker...
+Har du lyst til at bedømme dette spil?
+Ja, sikkert!
+Rapporter en fejl
+Ikke nu
+Denne række er stadig låst. Du skal løse 4 ud af 5 baner i den forrige række for at låse den op.
+Ok
+Ønsker du at rydde dine spil data?
+Ryd data
+Afbryd
+Opslagstavle
+Ingen meddelser tilgængelige, tjek venligst igen senere
+Luk
+Tak til
+Vil du gerne logge ud af Facebook?
+Forbliv forbundet
+Logget ud og Facebook data ryddet.
+Hent Brain It On! til mobil enhed for at oplåse alle puslespil sæt
+Tillykke! Du har oplåst {0}.
+Dejligt
+Forbinder til butik...
+Vi beklager, der opstod en fejl ved kontakt til butikken, prøv venligst igen senere.
+Dine køb er blevet gendannet.
+Køb
+Køb gennemført. Tak for din støtte!
+Ikke nu
+Tak fordi du støtter små indie udviklere!
+Indstillinger
+Gendan køb
+Nulstil spil
+Kommer snart...
+Log på
+Log ud
+Ingen annoncer
+Beklager, Facebook login understøttes kun på mobile enheder i øjeblikket.
+Tillykke!
+Køb Nu
+Løst
+Er du sikker på du vil afslutte?
+Ja
+Nej
+Se en video for at få et hint?
+Se venligst hele videoen for at få et hint.
+Hint
+Der opstod en fejl ved indlæsning af din video. Sørg for at du har forbindelse til internettet og prøv igen.
+Baneeditor
+Resultater
+Butik
+Oplås
+Løst {0} gange
+Du har ikke nok stjerner endnu, venligst indsamle flere for at oplåse denne pakke.
+Sprog
+Bedste resultater
+Køb det fulde spil
+Oplås alle baner
+Oplås alle hints
+Fjern alle annoncer
+(Prisen er nedsat hvis du allerede har købt ting)
+Mål:
+Tid i alt: {0}
+Antal figurer: {0}
+Sign in using your Game Center to safeguard your progress and to play on multiple iOS devices.
+You must solve all the levels to unlock the community levels.
+Error contacting server, please try again later.
+The level editor is only available if you've purchased the full game.
+Are you sure you want to delete this level?
+Level deleted successfully.
+Vælg niveau
+Din nuværende score
+Se en video for at prøve igen ?
+Physics active on start
+Community Levels
+Ground
+Error loading level. Please upgrade to the latest version of the game.
+Prøv det nu
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Tegn en figur
+Få bolden til at ramme den venstre væg
+Vip figuren til højre
+Tip glasset på jorden
+Få bolden ud af skålen
+Anbring et objekt i glasset
+Anbring kun to bolde i glasset
+Anbring et objekt i den lille kasse
+Få bolden fra hylden
+Få bolden til at røre jorden
+Få et objekt til at røre det røde område
+Fjern hætten
+Løft bolden fra jorden
+Få bolden ud af krukken
+Ryd alle objekter fra platformen
+Løft den orange kasse fra jorden
+Få ringen til at røre den højre væg
+Få bolden til at røre den venstre væg
+Anbring bolden i den orange kasse
+Afbalancer platformen
+Få bolden til at røre den højre væg
+Få bolden ud af beholderen
+Anbring bolden i den orange kasse
+Få bolden ud af vasen
+Vend glasset på hovedet
+Få bolden ud af figuren
+Anbring boldene i den orange kasse
+Få bolden til at ramme den højre væg
+Anbring et objekt i glasset
+Anbring bolden i den orange kasse
+Anbring bolden i den orange kasse
+Anbring bolden i den orange kasse
+Anbring bolden i den orange kasse
+Anbring et objekt i den orange kasse
+Få bolden ud af figuren
+Få bolden til at ramme den venstre og højre væg
+Få bolden til at røre den højre væg
+Få bolden til at røre loftet
+Få bolden til at ramme den højre væg
+Anbring bolden i den orange kasse
+Få bolden til at ramme den højre væg
+Få bolden til at ramme den højre væg
+Få den orange bold ud af kassen
+Anbring boldene i deres kasser
+Anbring bolden i den orange kasse
+Vend kassen om
+Tip figuren om på siden
+Få formen til at røre loftet
+Få bolden til at ramme den venstre væg
+Få bolden til at ramme den venstre væg
+Få et objekt til at ramme den højre væg
+Få den orange bold til at ramme jorden
+Få et objekt til at røre loftet
+Få bolden til at røre jorden
+Få bolden til at ramme den venstre væg
+Anbring bolden i den højre kasse og planken i den venstre kasse
+Få bolden til at røre jorden
+Løft trekanten over jorden
+Anbring planken i den orange kasse
+Anbring tre bolde i den orange kasse
+Tag hætten af kassen
+Tag skallen af kuplen
+Anbring en figur i den orange kasse
+Få det samme objekt til at røre den ventre og højre væg
+Anbring bolden i den orange kasse
+Sorter de farvede bolde
+Få et objekt til at røre jorden
+Få bolden til at røre den højre væg
+Få bolden til at røre den højre væg
+Stop begge tandhjul
+Få et objekt til at røre alle fire vægge
+Få boldene til at røre loftet
+Få et objekt til at røre den venstre væg
+Anbring figuren i glasset
+Anbring et objekt i den orange kasse
+Få den orange bold til at røre den højre væg
+Få bolden til at røre den højre væg
+Anbring bolden i glasset
+Få figuren til at røre den højre væg
+Anbring boldene i deres kasser
+Få magneterne til at røre hinanden
+Adskil magneterne
+Få boldene til at røre jorden
+Sorter efter farve
+Resultater er tilgængelige hvis du har købt spillet
+Løs {0} baner med 3 stjerner.
+Løs {0} baner under figur grænsen.
+Tegn {0} figurer.
+Løs [0} baner med kun 1 figur.
+Løs {0} baner på under 1 sekund.
+Løs {0} baner 5 sekunder under tidsgrænsen.
+Løs {0} baner 10 sekunder under tidsgrænsen.

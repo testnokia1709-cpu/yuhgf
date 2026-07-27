@@ -1,0 +1,176 @@
+Ik heb level {0} voltooid in #BrainItOn
+met ☆☆☆.
+Deel op Twitter
+Tweet
+Deel op Facebook
+Post
+Typ bericht...
+Laden...
+Wil je deze game waarderen?
+Ja, natuurlijk!
+Rapporteer een probleem
+Niet nu
+Deze rij is nog gesloten. Je moet 4 van de 5 levels uit de vorige rij voltooien om door te kunnen gaan.
+Ok
+Wil je je voortgang verwijderen?
+Verwijder voortgang
+Annuleer
+Notitiebord
+Geen notities beschikbaar, probeer later nog een keer.
+Sluit
+Credits
+Wil je uitloggen op Facebook?
+Blijf verbonden
+Uitgelogd en Facebook gegevens gewist.
+Download Brain It On! op je mobiele apparaat om alle puzzels vrij te spelen.
+Goed zo! Je hebt {0} vrijgespeeld.
+Goed zo!
+Verbinden met winkel...
+Het spijt ons, er is een probleem ontstaan tijdens het verbinden met de winkel. Probeer later opnieuw.
+Je aankopen zijn hersteld.
+Aankoop
+Aankoop is voltooid! Bedankt voor je steun!
+Niet nu
+Bedankt voor het steunen van de kleine indie ontwerpers.
+Instellingen
+Herstel aankopen
+Reset spel
+Komt Binnenkort
+Login
+Log uit
+Geen advertenties
+Sorry, Facebook login is momenteel alleen voor mobiele apparaten.
+Gefeliciteerd!
+Koop nu
+Voltooid
+Weet je zeker dat je wilt afsluiten?
+Ja
+Nee
+Een video kijken om een hint te krijgen?
+Bekijk de hele video om een hint te krijgen.
+Hint
+Er is een probleem ontstaan tijdens het laden van de video. Zorg ervoor dat je bent verbonden met internet en probeer het opnieuw.
+Level Editor
+Prestaties
+Winkel
+Speel vrij
+{0} keer opgelost
+Je hebt niet genoeg sterren om dit levelpakket vrij te spelen, verzamel meer sterren.
+Taal
+Beste Resultaat
+Koop het volledige spel
+Ontgrendel alle levels
+Ontgrendel alle hints
+Verwijder alle reclame
+(Je krijgt korting als je al eerder een aankoop hebt gedaan)
+Doel:
+Total time: {0}
+Total shapes: {0}
+Meld je aan via Game Center om je voortgang veilig te stellen en op meerdere iOS-apparaten te spelen.
+You must solve all the levels to unlock the community levels.
+Error contacting server, please try again later.
+The level editor is only available if you've purchased the full game.
+Are you sure you want to delete this level?
+Level deleted successfully.
+Selecteer niveau
+Uw huidige score
+Bekijk een video om opnieuw te proberen ?
+Physics active on start
+Gebruikerslevels
+Ground
+Error loading level. Please upgrade to the latest version of the game.
+Probeer nu
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Teken een figuur
+Laat de bal de linker muur raken
+Kantel de vorm naar rechts
+Kantel het glas op de grond
+Krijg de bal uit de kom
+Krijg een object in het glas
+Krijg 2 ballen in het glas
+Krijg een object in de kleine box
+Krijg de bal uit de houder
+Laat de bal de grond raken
+Laat een object het rode gebied raken
+Verwijder de deksel
+Krijg de bal van de grond
+Krijg de ball uit de bak
+Maak het platform vrij van objecten
+Krijg de oranje box van de grond
+Laat de ring de rechter muur aanraken
+Laat de bal de linker muur aanraken
+Krijg de bal in de oranje box
+Balanceer het platform
+Laat de bal de rechter muur aanraken
+Krijg de bal uit de bak
+Krijg de bal in de oranje box
+Krijg de bal uit de pot
+Flip het glas op de kop
+Krijg de bal uit de vorm
+Krijg de ballen in de oranje box
+Laat de bal de rechter muur aanraken
+Krijg een object in het glas
+Krijg de bal in de oranje box
+Krijg de bal in de oranje box
+Krijg de bal in de oranje box
+Krijg de bal in de oranje box
+Krijg een object in de oranje box
+Krijg de bal uit de vorm
+Laat de bal beide muren raken
+Laat de bal de rechter muur raken
+Laat de bal het plafond raken
+Laat de bal de rechter muur raken
+Krijg de bal in de oranje box
+Laat de bal de rechter muur raken
+Laat de bal de rechter muur raken
+Krijg de oranje bal uit de box
+Krijg de ballen in hun boxen
+Krijg de bal in de oranje box
+Flip de box op de kop
+Krijg de vorm op de zij
+Laat een vorm het plafond raken
+Laat de bal de linker muur raken
+Laat de bal de linker muur raken
+Laat een object de rechter muur raken
+Laat de oranje bal de grond raken
+Laat een object het plafond raken
+Laat de bal de grond raken
+Laat de bal de linker muur raken
+Krijg de bal in de rechter box en de plank in de linker
+Laat de bal de grond raken
+Krijg de driehoek van de grond
+Krijg de plank in de oranje box
+Krijg de drie ballen in de oranje box
+Krijg de deksel van de box af
+Krijg de schaal van de koepel
+Krijg een vorm in de oranje box
+Laat hetzelfde voorwerp beide muren raken
+Krijg de bal in de oranje box
+Sorteer de gekleurde ballen
+Laat een object de grond raken
+Laat de bal de rechter muur raken
+Laat de bal de rechter muur raken
+Stop beide versnellingen
+Laat een object alle muren raken
+Laat de ballen de plafond raken
+Laat een object de linker muur raken
+Krijg een vorm in het glas
+Krijg een object in de oranje box
+Laat de oranje bal de rechter muur raken
+Laat de bal de rechter muur raken
+Krijg de bal in het glas
+Laat de vorm de rechter muur raken
+Krijg de ballen in hun boxen
+Laat de magneten elkaar raken
+Splits de magneten
+Laat de ballen de grond raken
+Op kleur rangschikken
+Prestaties zijn beschikbaar als je het spel hebt gekocht.
+Voltooi {0} levels met 3 sterren.
+Voltooi {0} levels onder het vormen doel.
+Teken {0} vormen.
+Voltooi {0} levels met maar 1 vorm.
+Voltooi {0} levels in minder dan 1 seconde.
+Voltooi {0} levels 5 seconde onder het tijd doel.
+Voltooi {0} levels 10 seconde onder het tijd doel.

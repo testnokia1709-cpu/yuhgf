@@ -1,0 +1,176 @@
+Ho risolto il livello {0} in #BrainItOn
+con ☆☆☆.
+Condividi su Twitter
+Twitta
+Condividi su Facebook
+Condividi
+Scrivi messaggio...
+Caricamento...
+Vuoi valutare questo gioco?
+Si, certo.
+Segnala un bug
+Non ora
+Questa riga è ancora bloccata. Devi completare 4 livelli su 5 della riga precedente per sbloccarla.
+Ok
+Vuoi cancellare i tuoi progressi nel gioco?
+Cancella progressi
+Annulla
+Avvisi
+Nessun avviso, rientra più tardi
+Chiudere
+Riconoscimenti
+Vuoi uscire da Facebook?
+Resta connesso
+Disconnesso. Dati di Facebook eliminati.
+Scarica Brain It On! per il tuo dispositivo mobile per sbloccare tutti i puzzle.
+Congratulazioni: hai sbloccato {0}
+Bello
+Connessione al negozio...
+Spiacenti, si è verificato un errore nella connessione al negozio, riprova più tardi.
+I tuoi acquisti sono stati ripristinati.
+Acquista
+Acquisto completato. Grazie per il supporto!
+Non ora
+Grazie per il supporto a piccoli sviluppatori indipendenti.
+Impostazioni
+Ripristina Acquisti
+Resetta il gioco
+Prossimamente...
+Account di accesso
+Logout
+Nessuna pubblicità
+Spiacenti, l'accesso via Facebook è al momento supportato solo su dispositivi mobile.
+Congratulazioni!
+Acquista ora
+Risolto
+Sei sicuro di voler uscire?
+Sì
+No
+Vuoi guardare un video per avere un suggerimento?
+Per avere un suggerimento guardare l'intero video
+Suggerimento
+Si è verificato un errore nel caricamento del video. Riprovare più tardi
+Level Editor
+Realizzazioni
+Negozio
+Sblocca
+Risolto {0} volte
+Non hai ancora abbastanza stelle, raccogline di più per sbloccare il pacchetto
+Lingua
+Risultati migliori
+Acquista il gioco completo
+Sblocca tutti i livelli
+Sblocca tutti i suggerimenti
+Rimuovi i banner pubblicitari
+(Il prezzo è scontato se hai già fatto acquisti)
+Goal:
+Tempo totale: {0}
+Forme totali: {0}
+Effettua l'accesso usando Game Center per proteggere i tuoi progressi e giocare su più dispositivi iOS.
+Devi completare tutti i livelli per sbloccare i livelli comunitari.
+Errore nel contattare il server,per favore riprova più tardi.
+L'editor dei livelli è disponibile solamente se hai acquistato il gioco completo.
+Sei sicuro di voler cancellare questo livello?
+Livello cancellato con successo.
+Scelta livello
+Punteggio attuale
+Vuoi guardare un video per riprovare?
+Gravità attiva all'inizio
+Livelli Online
+Suolo
+Error loading level. Please upgrade to the latest version of the game.
+Provalo
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Disegna una figura
+Lancia la pallina contro il muro a sinistra
+Ribalta a destra la staffa
+Fai cadere il bicchiere
+Fai uscire la pallina dalla tazza
+Metti un oggetto nel bicchiere
+Metti solo due palline nel bicchiere
+Metti un oggetto nel contenitore piccolo
+Fai uscire la pallina dal cavalletto
+Fai cadere al suolo la pallina
+Lancia un oggetto nell'area rossa
+Rimuovi il tappo
+Solleva la pallina
+Fai uscire la pallina dal contenitore
+Rimuovi tutti gli oggetti dalla piattaforma
+Solleva il quadratino arancio
+Spingi l'anello contro il muro a destra
+Lancia la pallina contro il muro a sinistra
+Metti la pallina nel contenitore arancio
+Bilancia la piattaforma
+Lancia la pallina contro il muro a destra
+Fai uscire la pallina dal contenitore
+Metti la pallina nel contenitore arancio
+Fai uscire la pallina dal vaso
+Rovescia il bicchiere
+Fai uscire la pallina dal contenitore
+Metti le palline nel contenitore arancio
+Lancia la pallina contro il muro a destra
+Metti un oggetto nel bicchiere
+Metti la pallina nel contenitore arancio
+Metti la pallina nel contenitore arancio
+Metti la pallina nel contenitore arancio
+Metti la pallina nel contenitore arancio
+Metti un oggetto nel contenitore arancio
+Fai uscire la pallina dal labirinto
+Lancia la pallina contro i muri a sinistra e a destra
+Lancia la pallina contro il muro a destra
+Lancia la pallina contro il soffitto
+Lancia la pallina contro il muro a destra
+Metti la pallina nel contenitore arancio
+Lancia la pallina contro il muro a destra
+Lancia la pallina contro il muro a destra
+Fai uscire la pallina dalla scatola
+Metti le palline nei loro contenitori
+Metti la pallina nel contenitore arancio
+Ribalta la scatola
+Fai cadere la figura su un lato
+Fai toccare la figura e il soffitto
+Lancia la pallina contro il muro a sinistra
+Lancia la pallina contro il muro a sinistra
+Lancia un oggetto contro il muro a destra
+Fai cadere al suolo la pallina arancio
+Lancia un oggetto contro il soffitto
+Fai cadere al suolo la pallina
+Lancia la pallina contro il muro a sinistra
+Fai cadere la pallina nel contenitore a destra e la bacchetta nel contenitore a sinistra
+Fai cadere al suolo la pallina
+Solleva il triangolo
+Porta la bacchetta nel contenitore arancio
+Metti tre palline nel contenitore arancio
+Togli il coperchio alla scatola
+Togli la copertura dalla cupola
+Metti una figura nel contenitore arancio
+Lancia lo stesso oggetto contro i muri a sinistra e a destra
+Metti la pallina nel contenitore arancio
+Ordina le palline colorate
+Fai cadere al suolo un oggetto
+Lancia la pallina contro il muro a destra
+Lancia la pallina contro il muro a destra
+Ferma entrambi gli ingranaggi
+Lancia un oggetto contro tutte le pareti
+Lancia le palline contro il soffitto
+Lancia un oggetto contro il muro a sinistra
+Metti la forma nel bicchiere
+Metti un oggetto nel contenitore arancio
+Lancia la pallina arancio contro il muro a destra
+Lancia la pallina contro il muro a destra
+Metti la pallina nel bicchiere
+Fai toccare la figura e la parete destra
+Metti le palline nei loro contenitori
+Fai toccare i magneti
+Separa i magneti
+Fai cadere le sfere al suolo
+Sort by color
+Gli achievement sono disponibili solo se hai acquistato il gioco.
+Risolvi {0} livelli con 3 stelle.
+Risolvi {0} livelli utilizzando meno figure dell'obiettivo.
+Disegna {0} figure.
+Risolvi {0} livelli con una sola figura.
+Risolvi {0} livelli in meno di 1 secondo.
+Risolvi {0} livelli impiegando 5 secondi meno dell'obiettivo di tempo.
+Risolvi {0} livelli impiegando 10 secondi meno dell'obiettivo di tempo.

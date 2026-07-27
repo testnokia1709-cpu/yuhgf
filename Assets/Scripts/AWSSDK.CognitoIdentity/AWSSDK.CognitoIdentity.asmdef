@@ -1,0 +1,8 @@
+{
+  "name": "AWSSDK.CognitoIdentity",
+  "references": [
+    "AWSSDK.Core",
+    "AWSSDK.SecurityToken"
+  ],
+  "allowUnsafeCode": true
+}

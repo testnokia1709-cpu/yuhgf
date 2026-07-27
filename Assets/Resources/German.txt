@@ -1,0 +1,176 @@
+Ich habe Level {0} in #BrainItOn
+mit ☆☆☆ gelöst.
+Auf Twitter teilen
+Twittern
+Auf Facebook teilen
+Teilen
+Verfasse eine Nachricht
+Wird geladen...
+Möchtest du das Spiel bewerten?
+Ja, gern!
+Fehler melden
+Nicht jetzt
+Diese Reihe ist noch blockiert. Um sie freizuschalten, löse 4 von 5 Stufen aus der vorhergehenden Reihe.
+Ok
+Möchtest du deinen Spielverlauf zurücksetzen?
+Spiel zurücksetzen
+Abbrechen
+Benachrichtigungen
+Keine Benachrichtigungen zurzeit - schau später nochmal vorbei
+Schließen
+Credits
+Aus Facebook abmelden?
+Bleib in Kontakt
+Aus Facebook ausgeloggt und Daten zurückgesetzt.
+Lade Brain It On! auf dein Handy um alle Puzzle freizuschalten.
+Glückwunsch! Du hast {0} freigeschaltet!
+Toll
+Verbinden mit Store...
+Mist, tut uns leid. Es ist ein Fehler in der Verbindung aufgetreten, versuche es später nochmal!
+Deine Einkäufe wurden wiederhergestellt.
+Kaufen
+Kauf abgeschlossen - danke dir für die Unterstützung!
+Nicht jetzt
+Danke, dass du kleine Entwickler unterstützt.
+Einstellungen
+Einkäufe wiederherstellen
+Spiel zurücksetzen
+Demnächst...
+Login
+Abmelden
+Werbung abschalten
+Sorry, Facebook Login ist nur auf mobilen Geräten verfügbar.
+Glückwunsch!
+Jetzt kaufen
+Gelöst
+Willst du wirklich aufhören?
+Ja
+Nein
+Möchtest du ein Video sehen, um einen Hinweis zu erhalten?
+Bitte schau dir das ganze Video an, um einen Hinweis zu erhalten.
+Hinweis
+Beim Laden des Videos ist ein Fehler aufgetreten. Bitte versuche es später noch einmal.
+Level Editor
+Erfolge
+Laden
+Freischalten
+{0} mal gelöst
+Du hast noch nicht genug Sterne, bitte sammle mehr um dieses Paket freizuschalten.
+Sprache
+Beste Ergebnisse
+Kaufe die Vollversion
+Schaltet alle Level frei
+Schaltet alle Hinweise frei
+Beseitigt Werbung
+(Der Preis ist reduziert, wenn du schon Items gekauft hast)
+Ziel:
+Gesamtzeit: {0}
+Anzahl Formen insgesamt: {0}
+Melde dich über dein Game Center an, um deinen Fortschritt zu sichern und auf mehreren iOS-Geräten zu spielen.
+Du musst alle Stufen lösen, um die Community-Levels freizuschalten.
+Kein Kontakt zum Server - versuche es später nochmal.
+Der Editor ist nur verfügbar, wenn Du die Vollversion des Spiels gekauft hast.
+Bist du sicher, dass du diese Stufe löschen willst?
+Stufe erfolgreich gelöscht.
+Stufe auswählen
+Deine aktuelle Punktzahl
+Willst du ein Video sehen, um es noch einmal zu versuchen?
+Physics active on start
+Community Levels
+Ground
+Error loading level. Please upgrade to the latest version of the game.
+Probieren
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Male eine Form
+Der Ball muss die linke Wand berühren
+Dreh die Form nach rechts
+Das Glas muss kopfüber auf dem Boden stehen
+Bekomme den Ball aus der Schüssel
+Platziere ein Objekt im Glas
+Platziere nur zwei Bälle im Glas
+Platziere ein Objekt in der kleinen Box
+Bekomme den Ball von der Erhöhung
+Lass den Ball den Boden berühren
+Lass das Objekt den roten Bereich berühren
+Entferne den Deckel
+Heb den Ball vom Boden
+Bekomme den Ball aus dem Glas
+Fege alle Objekte von der Plattform
+Hebe die orange Box vom Boden
+Lass den Ring die rechte Wand berühren
+Lass den Ball die linke Wand berühren
+Platziere den Ball in der orangen Box
+Balanciere die Plattform
+Lass den Ball die rechte Wand berühren
+Bekomme den Ball aus dem Container
+Platziere den Ball in der orangen Box
+Bekomme den Ball aus der Vase
+Flippe das Glas kopfüber
+Bekomme den Ball aus der Form
+Platziere die Bälle in der orangen Box
+Lass den Ball die rechte Wand berühren
+Platziere ein Objekt im Glas
+Platziere den Ball in der orangen Box
+Platziere den Ball in der orangen Box
+Platziere den Ball in der orangen Box
+Platziere den Ball in der orangen Box
+Platziere ein Objekt in der orangenen Box
+Bekomme den Ball aus der Form
+Lass den Ball die rechte und linke Wand berühren
+Lass den Ball die rechte Wand berühren
+Lass den Ball die Decke berühren
+Lass den Ball die rechte Wand berühren
+Platziere den Ball in der orangen Box
+Lass den Ball die rechte Wand berühren
+Lass den Ball die rechte Wand berühren
+Bekomme den orangenen Ball aus der Box
+Platziere die Bälle in den Boxen
+Platziere den Ball in der orangen Box
+Dreh die Box um
+Drehe die Form auf die Seite
+Bringe die Form dazu die Decke zu berühren
+Der Ball muss die linke Wand berühren
+Der Ball muss die linke Wand berühren
+Lass ein Objekt die rechte Wand berühren
+Lass den orangenen Ball den Boden berühren
+Lass ein Objekt die Decke berühren
+Lass den Ball den Boden berühren
+Der Ball muss die linke Wand berühren
+Platziere den Ball in der rechten Box und das Brett in der linken Box
+Lass den Ball den Boden berühren
+Hebe das Triangel vom Boden
+Platziere das Brett in der orangenen Box
+Platziere drei Bälle in der orangenen Box
+Beweg den Deckel von der Box
+Beweg die Decke vom Dom weg
+Platziere eine Form in der orangenen Box
+Lass dasselbe Objekt die linke und rechte Wand berühren
+Platziere den Ball in der orangenen Box
+Sortiere die farbigen Bälle
+Lass ein Objekt den Boden berühren
+Lass den Ball die rechte Wand berühren
+Lass den Ball die rechte Wand berühren
+Stoppe beide Zahnräder
+Lass ein Objekt alle vier Wände berühren
+Lass die Bälle die Decke berühren
+Lass ein Objekt die linke Wand berühren
+Platziere die Form im Glas
+Platziere ein Objekt in der orangenen Box
+Lass den orangenen Ball die rechte Wand berühren
+Lass den Ball die rechte Wand berühren
+Platziere den Ball im Glas
+Bringe die Form dazu die rechte Wand zu berühren
+Platziere die Bälle in ihren Boxen
+Die Magnete sollen sich berühren
+Trenne die Magnete
+Die Bälle sollen den Boden berühren
+Nach Farbe sortieren
+Deine Erfolge werden angezeigt, wenn du das Spiel gekauft hast.
+Löse {0} Level mit 3 Sternen.
+Löse {0} Level mit weniger Formen als erfordert.
+Zeichne {0} Formen.
+Löse {0} Level mit nur einer Form.
+Löse {0} Level in unter einer Sekunde.
+Löse {0} Level 5 Sekunden schneller als erfordert.
+Löse {0} Level 10 Sekunden schneller als erfordert.

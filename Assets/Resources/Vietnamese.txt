@@ -1,0 +1,176 @@
+Tôi đã hoàn thành level {0} trong #BrainItOn
+với ☆☆☆
+Chia sẻ lên Twitter
+Tweet
+Chia sẻ lên Facebook
+Đăng
+Vào Tin Nhắn
+Đang Tải
+Bạn có muốn bình chọn Trò Chơi này không?
+Có, chắc chắn rồi!
+Báo lỗi
+Không phải bây giờ
+Vòng chơi này vẫn đang Khóa. Bạn cần giải quyết 4 trong 5 vòng chơi trước đó để mở khóa nó
+Ok
+Bạn có muốn xóa tiến trình trò chơi của bạn?
+Xóa Tiến Trình
+Hủy
+Bảng ghi chú
+Không có thông báo có sẵn, xin hãy kiểm tra lại sau!
+Đóng
+Tín dụng
+Bạn có muốn Đăng Xuất khỏi Facebook
+Giữ kết nối
+Đã đăng xuất và đã xóa dữ liệu Facebook
+Tải xuống Brain It On! cho thiết bị điện thoại của bạn mở khóa tất cả bộ câu đố
+Chúc mừng! Bạn đã mở khóa {0}
+Tuyệt
+Đang kết nối tới cửa hàng
+Chúng tôi xin lỗi, một lỗi đã xảy ra trong khi đang liên hệ tới Cửa Hàng, làm ơn thử lại
+Mua hàng của bạn đã được khôi phục
+Mua hàng
+Mua hàng hoàn thành. Cảm ơn!
+Không phải bây giờ
+Cảm ơn đã ủng hộ Nhà Phát Triển indie nhỏ
+Cài đặt
+Khôi phục mua hàng
+Khôi phục trò chơi
+Sắp ra mắt
+Đăng Nhập
+Đăng Xuất
+Không có Quảng Cáo
+Xin lỗi, Đăng Nhập Facebook chỉ hỗ trợ những thiết bị điện thoại hiện hành.
+Chúc mừng!
+Mua ngay
+Đã giải quyết
+Bạn có chắc chắn muốn Thoát
+Có
+Không
+Xem một Video để nhận gợi ý
+Làm ơn hãy xem một đoạn Video đầy đủ để nhận gợi ý
+Gợi Ý
+Một lỗi xảy ra khi đang tải Video của bạn. Hãy chắc chắn bạn đã kết nối tới Internet và thử lại
+Biên tập màn chơi
+Danh hiệu
+Cửa Hàng
+Mở khóa
+Đã giải quyết {0} lần
+Bạn chưa có đủ sao, hãy kiếm thêm sao để mở gói này
+Ngôn ngữ
+Kết quả tốt nhất
+Mua Game đầy đủ
+Mở tất cả các cấp
+Mở tất cả gợi ý
+Loại bỏ tất cả quảng cáo
+Phần quà được giảm giá nếu bạn đã mua các Items
+Mục tiêu:
+Tổng thời gian: {0}
+Tổng số hình: {0}
+Sign in using your Game Center to safeguard your progress and to play on multiple iOS devices.
+You must solve all the levels to unlock the community levels.
+Error contacting server, please try again later.
+The level editor is only available if you've purchased the full game.
+Are you sure you want to delete this level?
+Level deleted successfully.
+Chọn mức
+Số điểm hiện tại của bạn
+Watch video thử lại không?
+Physics active on start
+Community Levels
+Ground
+Error loading level. Please upgrade to the latest version of the game.
+Try
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Vẽ một hình bất kỳ
+Làm quả bóng chạm vào tường bên trái
+Nghiêng hình sang phía bên phải
+Làm thân cốc đổ xuống đất
+Đưa quả bóng ra khỏi cái bát
+Đặt một vật vào trong Cốc
+Đặt hai quả bóng vào trong Cốc
+Đặt một vật vào trong cái hộp nhỏ
+Đưa quả bóng ra khỏi chỗ đứng
+Đưa quả bóng chạm xuống đất
+Làm một vật chạm vào vùng màu Đỏ
+Tháo nắp
+Nhấc bóng lên khỏi mặt đất
+Đưa quả bóng ra khỏi cái bình
+Loại bỏ tất cả vật từ nền
+Nhấc chiếc hộp màu cam ra khỏi mặt đất
+Làm cái vòng chấm vào bức tường bên phải
+Làm quả bóng chạm vào tường bên trái
+Đặt quả bóng vào trong chiếc hộp màu cam
+Cân nền tảng
+Làm quả bóng chạm vào tường bên phải
+Đưa quả bóng ra khỏi thùng chứa
+Đặt quả bóng vào trong hộp màu cam
+Đưa quả bóng ra khỏi cái bình
+Lật cái kính lộn ngược lại
+Đưa quả bóng ra khỏi khuôn
+Đặt quả bóng vào trong chiếc hộp màu cam
+Làm quả bóng chạm vào tường bên phải
+Đặt một vật vào trong Cốc
+Đặt quả bóng vào trong chiếc hộp màu cam
+Đặt quả bóng vào trong chiếc hộp màu cam
+Đặt quả bóng vào trong chiếc hộp màu cam
+Đặt quả bóng vào trong chiếc hộp màu cam
+Đặt vật vào trong hộp cam
+Đưa quả bóng ra khỏi khuôn
+Làm quả bóng chạm vào tường bên trái và tường bên phải
+Làm quả bóng chạm vào tường bên phải
+Làm quả bóng chạm vào trên nóc
+Làm quả bóng chạm vào tường bên phải
+Đặt quả bóng vào trong chiếc hộp màu cam
+Làm quả bóng chạm vào tường bên phải
+Làm quả bóng chạm vào tường bên phải
+Đưa quả bóng màu cam ra khỏi hộp
+Đưa bóng vào những chiếc hộp của họ
+Đặt quả bóng vào trong chiếc hộp màu cam
+Lật hộp hơn
+Hình dạng tip trên bề mặt của nó
+Tạo hình chạm vào trên trần
+Làm quả bóng chạm vào tường bên trái
+Làm quả bóng chạm vào tường bên trái
+Làm vật chạm vào tường bên phải
+Làm quả bóng cam rơi xuống đất
+Làm vật chạm vào trần
+Làm quả bóng rơi xuống đất
+Làm quả bóng chạm vào tường bên trái
+Đặt quả bóng trong hộp bên phải và tấm ván trong hộp bên trái
+Làm quả bóng chạm đất
+Nhấc hình tam giác lên khỏi mặt đất
+Đặt tấm ván trong hộp màu cam
+Đặt ba quả bóng trong hộp màu cam
+Lấy cái nắp ra khỏi hộp
+Đưa vỏ ra khỏi mái vòm
+Đặt hình trong hộp cam
+Làm cho cùng một đối tượng chạm vào tường bên trái hoặc bên phải
+Đặt quả bóng vào trong chiếc hộp màu cam
+Sắp xếp những quả bóng có màu
+Làm vật chạm vào đất
+Làm quả bóng chạm vào tường bên phải
+Làm quả bóng chạm vào tường bên phải
+Dừng cả hai bánh răng lại
+Làm vật chạm vào cả bốn bức tường
+Làm quả bóng chạm vào trần
+Làm vật chạm vào tường bên trái
+Đặt hình vật vào trong Cốc
+Đặt vật vào trong hộp màu cam
+Làm quả bóng cam chạm vào tường bên phải
+Làm quả bóng chạm vào tường bên phải
+Đặt quả bóng vào trong kính
+Tạo hình chạm vào tường bên phải
+Đặt bóng vào những chiếc hộp của họ
+Làm những viên nam châm chạm vào nhau
+Tách các viên nam châm
+Làm quả bóng chạm xuống đất
+Sắp xếp theo màu sắc
+Danh hiệu có sẵn nếu bạn đã mua hàng trong trò chơi
+Giải quyết {0} màn với 3 sao
+Giải quyết {0} màn dưới số hình đã cho
+Vẽ {0} hình
+Giải quyết {0} màn chỉ với một hình vẽ
+Giải quyết {0} màn trong vòng dưới một giây
+Giải quyết {0} màn 5 giây dưới thời gian đề ra
+Giải quyết {0} màn 10 giây dưới thời gian đề ra

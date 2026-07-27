@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: d8bb31d77d2d29b4086fcaa8ad9a9249
+timeCreated: 1784892964
+licenseType: Free
+TextureImporter:
+  serializedVersion: 5
+  name:
+  fileIDToRecycleName:
+    21300000: RedStar_1
+    21300002: RedStar_2
+    21300004: RedStar_3
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedStar_1
+      rect:
+        serializedVersion: 2
+        x: 130.07613
+        y: 128
+        width: 125.92388
+        height: 128
+      alignment: 9
+      pivot: {x: 0.49175638, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.038067, y: -64}
+        - {x: -63.038067, y: -52}
+        - {x: -63.038067, y: 54.000004}
+        - {x: -60.038063, y: 64}
+        - {x: 53.961933, y: 64}
+        - {x: 62.961933, y: 43}
+        - {x: 62.961933, y: -63}
+        - {x: 60.961933, y: -64}
+      physicsShape:
+      - - {x: 46.961933, y: -26.999998}
+        - {x: 56.961933, y: -19}
+        - {x: 56.961933, y: -14.999999}
+        - {x: 52.96193, y: -2}
+        - {x: 59.961933, y: 8}
+        - {x: 59.961933, y: 14.999999}
+        - {x: 48.961933, y: 22.999998}
+        - {x: 51.96193, y: 38}
+        - {x: 46.961933, y: 39.999996}
+        - {x: 32.961933, y: 44}
+        - {x: 27.961933, y: 58.999996}
+        - {x: 3.9619327, y: 64}
+        - {x: -4.038067, y: 64}
+        - {x: -28.038065, y: 58.999996}
+        - {x: -31.038065, y: 55}
+        - {x: -51.038067, y: 41}
+        - {x: -53.038067, y: 33}
+        - {x: -61.038063, y: 14}
+        - {x: -61.038063, y: 3}
+        - {x: -59.038067, y: -19}
+        - {x: -43.038067, y: -26.999998}
+        - {x: -44.038063, y: -42.999996}
+        - {x: -38.038067, y: -45}
+        - {x: -25.038067, y: -42.999996}
+        - {x: -16.038067, y: -57}
+        - {x: -13.038067, y: -57}
+        - {x: -11.038066, y: -56}
+        - {x: 0.96193314, y: -57}
+        - {x: 14.961933, y: -57}
+        - {x: 21.961931, y: -48}
+        - {x: 41.96193, y: -47}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d102031c423474292514d8a116f3d4a
+      vertices:
+      - {x: 126.961945, y: 107}
+      - {x: 124.961945, y: 0}
+      - {x: 126.961945, y: 1}
+      - {x: 117.961945, y: 128}
+      - {x: 31.96194, y: 0}
+      - {x: 3.9619446, y: 128}
+      - {x: 0.96194077, y: 118}
+      - {x: 0.96194077, y: 12}
+      indices: 070000000600000004000000050000000400000006000000030000000400000005000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedStar_2
+      rect:
+        serializedVersion: 2
+        x: 1.0761205
+        y: 0
+        width: 126.92388
+        height: 128
+      alignment: 9
+      pivot: {x: 0.49576074, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.538063, y: 64}
+        - {x: -9.538063, y: 64}
+        - {x: 36.461937, y: 64}
+        - {x: 63.461937, y: 54.000004}
+        - {x: 63.461937, y: -64}
+        - {x: -48.538063, y: -64}
+        - {x: -63.538063, y: -55}
+        - {x: -63.538063, y: 40}
+        - {x: -56.538063, y: 64}
+      physicsShape:
+      - - {x: 49.461937, y: -29.999998}
+        - {x: 59.461933, y: -16}
+        - {x: 59.461933, y: -14}
+        - {x: 52.461933, y: -3}
+        - {x: 59.461933, y: 7}
+        - {x: 59.461933, y: 14}
+        - {x: 48.461933, y: 22}
+        - {x: 51.461937, y: 37}
+        - {x: 46.461937, y: 39}
+        - {x: 27.461937, y: 58}
+        - {x: -1.538063, y: 64}
+        - {x: -4.538063, y: 63}
+        - {x: -12.538063, y: 52}
+        - {x: -29.538063, y: 59.999996}
+        - {x: -37.538063, y: 42}
+        - {x: -51.538063, y: 39}
+        - {x: -53.53806, y: 38}
+        - {x: -50.538063, y: 21}
+        - {x: -61.538063, y: 11}
+        - {x: -61.538063, y: 2}
+        - {x: -59.53806, y: -19.999998}
+        - {x: -43.53806, y: -28}
+        - {x: -44.538063, y: -44}
+        - {x: -38.538063, y: -45.999996}
+        - {x: -25.538063, y: -44}
+        - {x: -16.538063, y: -58}
+        - {x: -13.538063, y: -58}
+        - {x: -11.538063, y: -57}
+        - {x: -1.538063, y: -58}
+        - {x: 15.461937, y: -58}
+        - {x: 24.461937, y: -45}
+        - {x: 41.461937, y: -48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d313e1cde54e59be95eb0bef2c827e
+      vertices:
+      - {x: 100.461945, y: 128}
+      - {x: 127.461945, y: 0}
+      - {x: 127.461945, y: 118}
+      - {x: 54.46194, y: 128}
+      - {x: 54.46194, y: 127}
+      - {x: 52.46194, y: 125}
+      - {x: 48.46194, y: 125}
+      - {x: 15.461941, y: 0}
+      - {x: 47.46194, y: 128}
+      - {x: 7.461941, y: 128}
+      - {x: 0.46194077, y: 104}
+      - {x: 0.46194077, y: 9}
+      indices: 0800000003000000060000000500000006000000030000000400000005000000030000000b0000000a0000000700000009000000070000000a000000080000000700000009000000060000000700000008000000010000000700000006000000050000000100000006000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedStar_3
+      rect:
+        serializedVersion: 2
+        x: 130.07613
+        y: 0
+        width: 125.92388
+        height: 128
+      alignment: 9
+      pivot: {x: 0.49175638, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.038067, y: 64}
+        - {x: -9.038067, y: 64}
+        - {x: 15.961933, y: 64}
+        - {x: 55.961933, y: 48}
+        - {x: 62.961933, y: 40}
+        - {x: 62.961933, y: -44}
+        - {x: 52.961937, y: -64}
+        - {x: -47.038067, y: -64}
+        - {x: -51.038067, y: -62}
+        - {x: -63.038067, y: -47}
+        - {x: -63.038067, y: 49}
+        - {x: -26.038067, y: 64}
+      physicsShape:
+      - - {x: 49.961933, y: -29.999998}
+        - {x: 59.961933, y: -16}
+        - {x: 59.961933, y: -14}
+        - {x: 52.96193, y: -3}
+        - {x: 59.961933, y: 7}
+        - {x: 59.961933, y: 14}
+        - {x: 48.961933, y: 22}
+        - {x: 51.96193, y: 37}
+        - {x: 46.961933, y: 39}
+        - {x: 32.961933, y: 42.999996}
+        - {x: 27.961933, y: 58}
+        - {x: -1.0380669, y: 64}
+        - {x: -4.038067, y: 63}
+        - {x: -28.038065, y: 58}
+        - {x: -31.038065, y: 53.999996}
+        - {x: -36.038067, y: 39.999996}
+        - {x: -51.038067, y: 39.999996}
+        - {x: -53.038067, y: 32}
+        - {x: -61.038063, y: 13}
+        - {x: -61.038063, y: 2}
+        - {x: -59.038067, y: -19.999998}
+        - {x: -43.038067, y: -28}
+        - {x: -44.038063, y: -44}
+        - {x: -38.038067, y: -45.999996}
+        - {x: -25.038067, y: -44}
+        - {x: -16.038067, y: -58}
+        - {x: -13.038067, y: -58}
+        - {x: -11.038066, y: -57}
+        - {x: -1.0380669, y: -58}
+        - {x: 15.961933, y: -58}
+        - {x: 24.961933, y: -45}
+        - {x: 41.96193, y: -48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a60281d3cdf43be8a7775ca2d27d4bc
+      vertices:
+      - {x: 119.961945, y: 112}
+      - {x: 126.961945, y: 20}
+      - {x: 126.961945, y: 104}
+      - {x: 116.961945, y: 0}
+      - {x: 79.961945, y: 128}
+      - {x: 54.96194, y: 128}
+      - {x: 54.96194, y: 127}
+      - {x: 52.96194, y: 125}
+      - {x: 48.96194, y: 125}
+      - {x: 37.96194, y: 128}
+      - {x: 47.96194, y: 128}
+      - {x: 16.96194, y: 0}
+      - {x: 12.961941, y: 2}
+      - {x: 0.96194077, y: 113}
+      - {x: 0.96194077, y: 17}
+      indices: 0a00000005000000080000000700000008000000050000000600000007000000050000000e0000000d0000000c000000090000000c0000000d0000000b0000000c00000009000000030000000b000000090000000800000003000000090000000a0000000800000009000000070000000300000008000000060000000300000007000000050000000300000006000000040000000300000005000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+  spritePackingTag:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  userData:
+  assetBundleName:
+  assetBundleVariant:

@@ -1,0 +1,176 @@
+Rozwiązałem {0} poziom w #BrainItOn
+z ☆☆☆.
+Udostępnij na Twitterze
+Tweetnij
+Udostępnij na Facebooku
+Opublikuj
+Wpisz wiadomość...
+Ładowanie...
+Chciał(a)byś ocenić tę grę?
+Tak, oczywiście!
+Zgłoś błąd
+Później
+Ta grupa poziomów jest jeszcze zablokowana. Musisz rozwiązać 4 z 5 poziomów w poprzedniej grupie (wierszu), aby je odblokować.
+Ok
+Czy na pewno chcesz zresetować swój postęp?
+Zresetuj
+Anuluj
+Tablica ogłoszeń
+Brak ogłoszeń, sprawdź później.
+Zamknij
+Twórcy gry
+Chcesz wylogować się z Facebooka?
+Pozostań zalogowany
+Wylogowałeś się z Facebooka.
+Pobierz Brain It On! na twój telefon, aby odblokować wszystkie zestawy z zagadkami.
+Gratulacje! Odblokowałeś {0}
+Świetnie
+Łączenie ze sklepem...
+Przepraszamy, wystąpił bład podczas łączenia ze sklepem, spróbuj ponownie.
+Twoja zawartość została przywrócona.
+Kup
+Zakup udany. Dziękujemy za wsparcie!
+Później
+Dziękujemy za wspieranie małych indie developerów!
+Ustawienia
+Przywróć zawartość
+Zresetuj grę
+Wkrótce...
+Zaloguj się
+Wyloguj się
+Wyłącz reklamy
+Przepraszamy, logowanie przez Facebooka jest dostępne tylko na urządzeniach mobilnych.
+Gratulacje!
+Kup teraz
+Rozwiązane
+Czy na pewno chcesz zakończyć?
+Tak
+Nie
+Chcesz obejrzeć wideo i dostać wskazówkę?
+Proszę obejrzeć całe wideo, aby dostać wskazówkę.
+Wskazówka
+Wystąpił błąd podczas ładowania wideo, spróbuj ponownie.
+Level Editor
+Osiągnięcia
+Sklep
+Odblokuj
+Rozwiązano {0} razy
+Nie masz wystarczającej ilości gwiazdek. Zbierz więcej, żeby odblokować ten zestaw.
+Język
+Najlepsze wyniki
+Kup pełną wersję gry
+Odblokowane wszystkie poziomy
+Odblokowane wszystkie wskazówki
+Brak reklam
+(Cena jest obniżona, jeśli coś już zakupiłeś)
+Cel:
+Total time: {0}
+Total shapes: {0}
+Sign in using your Game Center to safeguard your progress and to play on multiple iOS devices.
+You must solve all the levels to unlock the community levels.
+Error contacting server, please try again later.
+The level editor is only available if you've purchased the full game.
+Are you sure you want to delete this level?
+Level deleted successfully.
+Wybierz poziom
+Twój aktualny wynik
+Obejrzyj film, aby spróbować jeszcze raz?
+Physics active on start
+Community Levels
+Ground
+Error loading level. Please upgrade to the latest version of the game.
+Wypróbuj teraz
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Narysuj kształt
+Spraw, aby piłka dotknęła lewej ścianki
+Przechyl kształt na prawo
+Przewróć szklankę
+Spraw, aby piłka wyleciała z miski
+Umieść obiekt w szklance
+Umieść tylko dwie piłki w szklance
+Umieść obiekt w małym pudełku
+Spraw, aby piłka wyleciała z podstawki
+Spraw, aby piłka dotknęła podłoża
+Spraw, aby obiekt dotknął czerwonej strefy
+Zrzuć czapeczkę
+Unieś piłkę
+Spraw, aby piłka wyleciała ze słoika
+Zrzuć wszystkie obiekty z platformy
+Unieś pomarańczowe pudełko
+Spraw, aby obręcz dotknęła prawej ścianki
+Spraw, aby piłka dotknęła lewej ścianki
+Umieść piłkę w pomarańczowym pudełku
+Zachowaj równowagę
+Spraw, aby piłka dotknęła prawej ścianki
+Spraw, aby piłka wyleciała z pudełka
+Umieść piłkę w pomarańczowym pudełku
+Spraw, aby piłka wyleciała z wazonu
+Odwróć szklankę
+Spraw, aby piłka wyleciała z obiektu
+Umieść piłki w pomarańczowym pudełku
+Spraw, aby piłka dotknęła prawej ścianki
+Umieść obiekt w szklance
+Umieść piłkę w pomarańczowym pudełku
+Umieść piłkę w pomarańczowym pudełku
+Umieść piłkę w pomarańczowym pudełku
+Umieść piłkę w pomarańczowym pudełku
+Umieść obiekt w pomarańczowym pudełku
+Spraw, aby piłka wyleciała z obiektu
+Spraw, aby piłka dotknęła lewej i prawej ścianki
+Spraw, aby piłka dotknęła prawej ścianki
+Spraw, aby piłka dotknęła sufitu
+Spraw, aby piłka dotknęła prawej ścianki
+Umieść piłkę w pomarańczowym pudełku
+Spraw, aby piłka dotknęła prawej ścianki
+Spraw, aby piłka dotknęła prawej ścianki
+Spraw, aby piłka wyleciała z pudełka
+Umieść piłki w swoich pudełkach
+Umieść piłkę w pomarańczowym pudełku
+Odwróć pudełko
+Przewróć kształt na jego stronę
+Spraw, aby kształt dotknął sufitu
+Spraw, aby piłka dotknęła lewej ścianki
+Spraw, aby piłka dotknęła lewej ścianki
+Spraw, aby obiekt dotknął prawej ścianki
+Spraw, aby pomarańczowa piłka dotknęła podłoża
+Spraw, aby obiekt dotknęła sufitu
+Spraw, aby piłka dotknęła podłoża
+Spraw, aby piłka dotknęła lewej ścianki
+Umieść piłkę w prawym pudełku, a deskę w lewym
+Spraw, aby piłka dotknęła podłoża
+Unieś trójkąt
+Umieść deskę w pomarańczowym pudełku
+Umieść trzy piłki w pomarańczowym pudełku
+Zrzuć czapeczkę z pudełka
+Zrzuć czapeczkę z kopuły
+Umieść kształt w pomarańczowym pudełku
+Spraw, aby ten sam obiekt dotknęł lewej i prawej ścianki
+Umieść piłkę w pomarańczowym pudełku
+Posortuj kolorowe piłki
+Spraw, aby obiekt dotknęła podłoża
+Spraw, aby piłka dotknęła prawej ścianki
+Spraw, aby piłka dotknęła prawej ścianki
+Zatrzymaj obie zębatki
+Spraw, aby obiekt dotknął wszystkich czterech ścianek
+Spraw, aby piłki dotknęły sufitu
+Spraw, aby piłka dotknęła lewej ścianki
+Umieść obiekt w szklance
+Umieść obiekt w pomarańczowym pudełku
+Spraw, aby pomarańczowa piłka dotknęła prawej ścianki
+Spraw, aby piłka dotknęła prawej ścianki
+Umieść piłkę w szklance
+Spraw, aby kształt dotknął prawej ścianki
+Umieść piłki w swoich pudełkach
+Zetknij ładunki
+Rozdziel ładunki
+Spraw, aby piłki dotknęły podłoża
+Sortuj według koloru
+Osiągnięcia są dostępne po zakupie gry.
+Rozwiąż {0} poziomów z 3 gwiazdkami.
+Rozwiąż {0} poziomów, rysując mniej kształtów od celu.
+Narysuj {0} kształtów.
+Rozwiąż {0} poziomów, rysując jeden kształt.
+Rozwiąż {0} poziomów w mniej niż sekundę.
+Rozwiąż {0} poziomów 5 sekund przed celem.
+Rozwiąż {0} poziomów 10 sekund przed celem.

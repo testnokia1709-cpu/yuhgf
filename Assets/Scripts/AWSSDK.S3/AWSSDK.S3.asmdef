@@ -1,0 +1,7 @@
+{
+  "name": "AWSSDK.S3",
+  "references": [
+    "AWSSDK.Core"
+  ],
+  "allowUnsafeCode": true
+}

@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: 68d6864bda11bea45a63f45a06c879a0
+timeCreated: 1784892964
+licenseType: Free
+TextureImporter:
+  serializedVersion: 5
+  name:
+  fileIDToRecycleName:
+    21300000: UI_Icons_Coin
+    21300002: UI_Icons_Gem
+    21300004: UI_Icons_2
+    21300006: UI_Icons_0
+    21300008: UI_Icons_1
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Icons_Coin
+      rect:
+        serializedVersion: 2
+        x: 0.076120496
+        y: 192
+        width: 61.847755
+        height: 58.973248
+      alignment: 9
+      pivot: {x: 0.5161688, y: 0.54261893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.999998, y: -29.486624}
+        - {x: -30.999998, y: -28.486624}
+        - {x: -30.999998, y: 20.513376}
+        - {x: -23.999998, y: 29.513378}
+        - {x: 16.000004, y: 29.513378}
+        - {x: 31.000004, y: 21.513376}
+        - {x: 31.000004, y: -22.486624}
+        - {x: 25.000002, y: -29.486624}
+      physicsShape:
+      - - {x: -15.999998, y: 27.513376}
+        - {x: -27.999998, y: 14.513376}
+        - {x: -27.999998, y: -15.486624}
+        - {x: -11.999998, y: -27.486622}
+        - {x: 17.000002, y: -27.486622}
+        - {x: 28, y: -13.486624}
+        - {x: 28, y: 15.513376}
+        - {x: 12.000002, y: 27.513376}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6850dcde811949ca9e8ee7cb22c1de63
+      vertices:
+      - {x: 60.92388, y: 48.486626}
+      - {x: 54.923878, y: -2.5133762}
+      - {x: 60.92388, y: 4.486624}
+      - {x: 45.923878, y: 56.486626}
+      - {x: 5.9238777, y: 56.486626}
+      - {x: 5.9238777, y: -2.5133762}
+      - {x: -1.0761223, y: 47.486626}
+      - {x: -1.0761223, y: -1.5133762}
+      indices: 070000000600000005000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Icons_Gem
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192.02675
+        width: 64
+        height: 58.897125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54286605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -10.475313}
+        - {x: -32, y: -5.475313}
+        - {x: -32, y: 22.524687}
+        - {x: -27.000002, y: 29.524689}
+        - {x: 24, y: 29.524689}
+        - {x: 32, y: 15.524687}
+        - {x: 32, y: 1.5246868}
+        - {x: 7, y: -29.475313}
+        - {x: -4, y: -29.475313}
+      physicsShape:
+      - - {x: 13, y: 28.524687}
+        - {x: -9, y: 28.524687}
+        - {x: -19.999998, y: 26.524687}
+        - {x: -29.999998, y: 15.524687}
+        - {x: -29.999998, y: 7.5246863}
+        - {x: -28, y: 2.5246868}
+        - {x: -9, y: -20.475311}
+        - {x: -1, y: -24.475311}
+        - {x: 4, y: -24.475311}
+        - {x: 29, y: 6.524687}
+        - {x: 29, y: 14.524687}
+        - {x: 26.999998, y: 20.524687}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87f1df379b64bc99d8b74e470a3153b
+      vertices:
+      - {x: 56, y: 56.448563}
+      - {x: 64, y: 28.448563}
+      - {x: 64, y: 42.448563}
+      - {x: 39, y: -2.5514374}
+      - {x: 28, y: -2.5514374}
+      - {x: 4.999998, y: 56.448563}
+      - {x: 1, y: 16.448563}
+      - {x: 0, y: 49.448563}
+      - {x: 0, y: 21.448563}
+      indices: 080000000700000006000000050000000600000007000000040000000600000005000000000000000400000005000000030000000400000000000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Icons_2
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 128
+        width: 59.847755
+        height: 64
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.999996, y: -32}
+        - {x: -29.999998, y: -30.000002}
+        - {x: -29.999998, y: 6}
+        - {x: -7.999996, y: 27.000002}
+        - {x: -11.999996, y: 29}
+        - {x: -12.999996, y: 32}
+        - {x: 30.000006, y: 32}
+        - {x: 30.000006, y: -32}
+      physicsShape:
+      - - {x: -25.999996, y: 7}
+        - {x: -25.999996, y: -25}
+        - {x: -9.999995, y: -25}
+        - {x: -9.999995, y: 7}
+        - {x: -11.999996, y: 9}
+        - {x: -23.999996, y: 9}
+      - - {x: -5.999996, y: 19.999998}
+        - {x: -7.999996, y: 18}
+        - {x: -7.999996, y: -25}
+        - {x: 8.000004, y: -25}
+        - {x: 8.000004, y: 19.999998}
+      - - {x: 10.000003, y: 31}
+        - {x: 10.000003, y: -25}
+        - {x: 26.000004, y: -25}
+        - {x: 26.000004, y: 31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1e764e1a3446f5b95d8d0d59186b8c
+      vertices:
+      - {x: 59.92388, y: 64}
+      - {x: 21.923878, y: 59}
+      - {x: 59.92388, y: 0}
+      - {x: 17.923878, y: 61}
+      - {x: 16.923878, y: 64}
+      - {x: 0.9238777, y: 0}
+      - {x: -0.07612419, y: 38}
+      - {x: -0.07612419, y: 1.9999981}
+      indices: 070000000600000005000000010000000500000006000000020000000500000001000000040000000000000003000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Icons_0
+      rect:
+        serializedVersion: 2
+        x: 130.07613
+        y: 192
+        width: 59.847755
+        height: 61.973248
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.5163518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.000004, y: -30.986624}
+        - {x: -30.000006, y: -29.986624}
+        - {x: -30.000006, y: 8.013376}
+        - {x: 1.9999962, y: 31.013378}
+        - {x: 29.999998, y: 31.013378}
+        - {x: 29.999998, y: -30.986624}
+      physicsShape:
+      - - {x: -24.000004, y: 9.013376}
+        - {x: -26.000004, y: 7.013376}
+        - {x: -26.000004, y: -24.986624}
+        - {x: -10.000003, y: -24.986624}
+        - {x: -10.000003, y: 8.013376}
+        - {x: -12.000004, y: 9.013376}
+      - - {x: -6.000004, y: 20.013376}
+        - {x: -8.000004, y: 18.013376}
+        - {x: -8.000004, y: -22.986624}
+        - {x: -6.000004, y: -24.986624}
+        - {x: 7.999996, y: -24.986624}
+        - {x: 7.999996, y: 20.013376}
+      - - {x: 9.999995, y: 31.013374}
+        - {x: 9.999995, y: -24.986624}
+        - {x: 25.999996, y: -24.986624}
+        - {x: 25.999996, y: 31.013374}
+      - - {x: -2.0000038, y: 14.013376}
+        - {x: 1.9999962, y: 14.013376}
+        - {x: 1.9999962, y: -18.986622}
+        - {x: -2.0000038, y: -18.986622}
+      - - {x: 15.999996, y: 25.013376}
+        - {x: 19.999994, y: 25.013376}
+        - {x: 19.999994, y: -18.986622}
+        - {x: 15.999996, y: -18.986622}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb89d4ba6ad44e5880f65f0cf1a08be
+      vertices:
+      - {x: 31.923878, y: 60.986626}
+      - {x: 59.92388, y: -1.0133762}
+      - {x: 59.92388, y: 60.986626}
+      - {x: 0.9238777, y: -1.0133762}
+      - {x: -0.07612419, y: 37.986626}
+      - {x: -0.07612419, y: -0.013376236}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Icons_1
+      rect:
+        serializedVersion: 2
+        x: 194.07613
+        y: 192
+        width: 59.847755
+        height: 61.973248
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.5163518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.000004, y: -30.986624}
+        - {x: -30.000006, y: -29.986624}
+        - {x: -30.000006, y: 8.013376}
+        - {x: 1.9999962, y: 31.013378}
+        - {x: 29.999998, y: 31.013378}
+        - {x: 29.999998, y: -30.986624}
+      physicsShape:
+      - - {x: -24.000004, y: 9.013376}
+        - {x: -26.000004, y: 7.013376}
+        - {x: -26.000004, y: -24.986624}
+        - {x: -10.000003, y: -24.986624}
+        - {x: -10.000003, y: 8.013376}
+        - {x: -12.000004, y: 9.013376}
+      - - {x: -6.000004, y: 20.013376}
+        - {x: -8.000004, y: 18.013376}
+        - {x: -8.000004, y: -22.986624}
+        - {x: -6.000004, y: -24.986624}
+        - {x: 7.999996, y: -24.986624}
+        - {x: 7.999996, y: 20.013376}
+      - - {x: 9.999995, y: 31.013374}
+        - {x: 9.999995, y: -24.986624}
+        - {x: 25.999996, y: -24.986624}
+        - {x: 25.999996, y: 31.013374}
+      - - {x: 15.999996, y: 25.013376}
+        - {x: 19.999994, y: 25.013376}
+        - {x: 19.999994, y: -18.986622}
+        - {x: 15.999996, y: -18.986622}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f30006afafb4843a16cc61c09866fb2
+      vertices:
+      - {x: 31.923878, y: 60.986626}
+      - {x: 59.92388, y: -1.0133762}
+      - {x: 59.92388, y: 60.986626}
+      - {x: 0.9238777, y: -1.0133762}
+      - {x: -0.07612419, y: 37.986626}
+      - {x: -0.07612419, y: -0.013376236}
+      indices: 050000000400000003000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+  spritePackingTag:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  userData:
+  assetBundleName:
+  assetBundleVariant:

@@ -1,0 +1,115 @@
+Es pabeidzu līmeni {0} spēlē #BrainItOn
+Ar ☆☆☆.
+Dalies ar Twitter
+Tweet
+Dalies ar Facebook
+Dalies
+Ievadi ziņu
+Ielādē...
+Vai tu vēlētos novērtēt šo spēli?
+Jā, protams!
+Ziņo par kļūdu
+Ne tagad
+Šī sadaļa pagaidām ir slēgta. Tev jāpabeidz 4 no 5 līmeņiem iepriekšējā sadaļā, lai atvērtu šo.
+Labi
+Vai tu vēlies dzēst spēles progresu? 
+Dzēst progresu 
+Atcelt 
+Ziņojumu dēlis
+Ziņojumi nav pieejami, lūdzu, pārbaudiet vēlāk.
+Aizvērt
+Vai tu vēlies izlogoties no Facebook? 
+Atstāt savienotu
+Izlogojies un Facebook dati ir dzēsti
+Lejupielādē Brain It On! uz savas mobilās ierīces, lai izpildītu visas puzles. 
+Apsveicam! Jūs esat atbloķējis {0}
+Lieliski
+Savienojas ar veikalu...
+Atvainojiet, parādījās kļūdas savienojoties ar veikalu, lūdzu, pamēģiniet vēlāk. 
+Jūsu pirkumi ir atjaunoti. 
+Pirkt
+Pirkums pabeigts. Paldies par jūsu atbalstu!
+Ne tagad
+Paldies par to, ka atbalsti mazus indie izstrādātājus!
+Iestatījumi
+Atjaunot Pirkumus
+Atjaunot Spēli
+Drīzumā Iznāks...
+Pieslēgties
+Izlogoties
+Bez Reklāmām
+Atvaino, Facebook pašlaik ir pieejams tikai uz mobilajām ierīcēm. 
+Apsveicam!
+Pirkt Tagad
+Pabeigts
+Vai tu esi pārliecināts, ka vēlies iziet?
+Jā
+Nē
+Noskaties video, lai saņemtu mājienu?
+Lūdzu noskaties visu video, lai saņemtu mājienu. 
+Mājiens
+Radās kļūda ielādējot video. Lūdzu pārliecinies vai esi savienojies ar internetu un mēģini vēlreiz.
+Līmeņu Redaktors
+Sasniegumi
+Veikals
+Atbloķēt
+Pabeigti {0} reizes
+Tev nav pietiekami daudz zvaigzņu, savāc vairāk, lai atbloķētu šo sadaļu.
+Valoda
+Labākie Rezultāti
+Nopērc pilno spēli
+Atbloķē visus līmeņus
+Atblokē visus mājienus
+Noņemt visas reklāmas
+(Cena ir samazināta, ja esi jau iegādājies kādu preci)
+Mērķis:
+Kopējais laiks: {0}
+Kopējējās formas: {0}
+Sign in using your Game Center to safeguard your progress and to play on multiple iOS devices.
+You must solve all the levels to unlock the community levels.
+Error contacting server, please try again later.
+The level editor is only available if you've purchased the full game.
+Are you sure you want to delete this level?
+Level deleted successfully.
+Uzzīmē formu
+
+
+
+
+
+
+
+Izdari tā, lai bumba pieskaras kreisajai sienai
+Saliec formu pa labi
+Liec traukam apgāzties uz zemes
+Liec bumbiņai izkļūt no trauka
+Novieto objektu iekš trauka
+Novieto tikai divas bumbiņas iekš trauka
+Novieto objektu tieši mazajā kastē 
+Liec bumbiņai nokrist no statīva 
+Liec bumbiņai pieskarties grīdai
+Liec bumbiņai pieskarties sarkanajam laukam
+Noņem vāku
+Liec bumbiņai pacelties virs grīdas
+Liec bumbiņai izkļūt no trauka
+Notīri visus objektus no platformas
+Pacel oranžo kasti virs zemes
+Liec aplim pieskarties labajai sienai
+Liec bumbiņai pieskārties kreisajai sienai
+Novieto bumbiņu iekš oranžās kastes
+Balansē platformu
+Liec bumbiņai pieskarties labajai sienai
+Palīdzi bumbiņai izkļūt no konteinera
+Novieto bumbiņu iekš oranžās kastes
+Liec bumbiņai izkļūt no vāzes
+Liec bumbiņai pieskarties labajai sienai
+Liec bumbiņai pieskarties labajai sienai
+Liec bumbiņai pieskarties labajai sienai
+Liec bumbiņai pieskarties labajai sienai
+Liec bumbiņai pieskarties labajai sienai
+Izdari tā, lai bumba pieskaras kreisajai sienai
+Izdari tā, lai bumba pieskaras kreisajai sienai
+Izdari tā, lai bumba pieskaras kreisajai sienai
+Liec bumbiņai pieskarties labajai sienai
+Liec bumbiņai pieskarties labajai sienai
+Liec bumbiņai pieskarties labajai sienai

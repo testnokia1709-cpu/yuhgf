@@ -1,0 +1,176 @@
+J'ai réussi le niveau {0} sur #BrainItOn
+avec ☆☆☆.
+Partager sur Twitter
+Twitter
+Partager sur Facebook
+Publier
+Ecrivez un message...
+Chargement...
+Veux-tu noter ce jeu?
+Oui, merci !
+Signaler un bug
+Pas maintenant
+Cette série n'est pas encore disponible. Termine 4 des 5 puzzles de la série précédente pour la débloquer.
+Ok
+Veux tu annuler ta progression?
+Annuler la progression.
+Annuler
+Tableau d'affichage
+Rien pour le moment, tu pourras le consulter à nouveau plus tard.
+Fermer
+Crédits
+Veux-tu te déconnecter de FaceBook ?
+Rester connecté
+Déconnecté. Les données de Facebook ont été nettoyées.
+Télécharge Brain It On! sur tes appareils mobiles pour débloquer toutes les séries de puzzles.
+Félicitations! Tu as débloqué {0}.
+Bien
+Se connecte au store...
+Désolé, il y a eu une erreur pendant la connection, merci de réessayer plus tard.
+Tes achats ont été restaurés.
+Acheter
+Achat réussi. Merci pour le support !
+Pas maintenant
+Merci de soutenir les développeurs indépendants !
+Réglages
+Restaurer les achats
+Réinitialiser le jeu
+À venir...
+Connexion
+Déconnecter
+Sans publicité
+Désolé, la connection à Facebook n'est disponible que sur les appareils mobiles pour l'instant.
+Félicitations!
+Achète maintenant
+Fini
+Es-tu sûr de vouloir quitter ?
+Oui
+Non
+Veux-tu voir une vidéo pour avoir un indice?
+Regarde la vidéo complète pour avoir l'indice.
+Indice
+Une erreur est survenue en chargeant la vidéo. Vérifie ta connexion Internet et réessaye.
+Level Editor
+Succès
+Magasin
+Débloquer
+Résolu {0} fois
+Vous ne possédez pas assez d'étoiles, collectionnez en plus pour débloquer ce niveau.
+Langue
+Nouveau record
+Acheter le jeu complet
+Débloque tous les niveaux
+Débloque tous les indices
+Retire toutes les publicités
+(Le prix est réduit si vous avez déjà acheté des items)
+Objectif:
+Temps total: {0}
+Formes total: {0}
+Connectez-vous via Game Center pour sauvegarde votre progression et jouer sur différents appareils iOS.
+Vous devez résoudre tous les niveaux pour accéder aux niveaux de la communauté.
+La connexion au serveur ne peut être établie, veuillez essayer plus tard.
+L'éditeur de niveaux n'est accessible qu'avec la version complète du jeu.
+Voulez-vous vraiment effacer ce niveau ?
+Niveau effacé.
+Choisir le niveau
+Votre score actuel
+Regarder une vidéo pour essayer à nouveau ?
+Physics active on start
+Niveaux sur ligne
+Ground
+Error loading level. Please upgrade to the latest version of the game.
+Essayez
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Dessine une forme.
+La balle doit toucher le mur de gauche
+Fais pencher la forme sur la droite
+Fais tomber le verre
+Fais sortir la balle du bol
+Mets un objet dans le verre
+Mets deux balles dans le verre
+Place un objet dans la petite boîte
+Sors la balle de là
+La balle doit toucher le sol
+Un objet doit toucher la zone rouge
+Retire la forme au-dessus
+Soulève la balle
+Sors la balle du bocal
+Fais tomber tous les objets de la plateforme
+Soulève la boîte orange
+L'anneau doit toucher le mur de droite
+La balle doit toucher le mur de gauche
+Mets la balle dans la boîte orange
+Equilibre la plateforme
+La balle doit toucher le mur de droite
+Sors la balle de la boîte
+Mets la balle dans la boîte orange
+Sors la balle du vase
+Retourne le verre
+Sors la balle du récipient
+Mets les balles dans la boîte orange
+La balle doit toucher le mur de droite
+Mets un objet dans le verre
+Mets une balle dans la boîte orange
+Mets une balle dans la boîte orange
+Mets une balle dans la boîte orange
+Mets une balle dans la boîte orange
+Mets un objet dans la boîte orange
+Sors la balle du labyrinthe
+La balle doit toucher les murs de droite et de gauche
+La balle doit toucher le mur de droite
+La balle doit toucher le plafond
+La balle doit toucher le mur de droite
+Mets la balle dans la boîte orange
+La balle doit toucher le mur de droite
+La balle doit toucher le mur de droite
+Sors la balle orange de la boîte
+Mets chaque balle dans sa boîte
+Mets la balle dans la boîte orange
+Retourne la boîte
+Bascule la forme sur le côté
+La forme doit toucher le plafond
+La balle doit toucher le mur de gauche
+La balle doit toucher le mur de gauche
+Un objet doit toucher le mur de droite
+La balle orange doit toucher le sol
+Un objet doit toucher le plafond
+La balle doit toucher le sol
+La balle doit toucher le mur de gauche
+Mets la balle dans la boîte de droite et la planche dans celle de gauche
+La balle doit toucher le sol
+Soulève le triangle
+Mets la planche dans la boîte orange
+Mets les trois balles dans la boîte orange
+Retire le couvercle de la boîte
+Retire le couvercle du dôme
+Mets un objet dans la boîte orange
+Le même objet doit toucher les murs de droite et de gauche
+Mets la balle dans la boîte orange
+Trie les balles colorées
+Un objet doit toucher le sol
+La balle doit toucher le mur de droite
+La balle doit toucher le mur de droite
+Bloque les engrenages
+Un objet doit toucher les quatre murs
+Les balles doivent toucher le plafond
+Un objet doit toucher le mur de gauche
+Mets la forme dans le verre
+Mets un objet dans le boîte orange
+La balle orange doit toucher le mur de droite
+La balle doit toucher le mur de droite
+Mets la balle dans le verre
+La forme doit toucher le mur de droite
+Mets les balles dans leurs boîtes
+Fais se toucher les aimants
+Sépare les aimants
+Les balles doivent toucher le sol
+Trie par couleur
+Les trophées sont disponibles à l'achat du jeu.
+Résous {0} niveaux avec 3 étoiles.
+Résous {0} niveaux avec moins de formes que l'objectif.
+Dessines {0} formes.
+Résous {0} niveaux avec un seul dessin.
+Résous {0} niveaux en moins de 1 seconde.
+Résous {0} niveaux avec 5 secondes de moins que le temps imparti.
+Résous {0} niveaux avec 10 secondes de moins que le temps imparti.

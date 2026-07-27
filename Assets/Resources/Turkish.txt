@@ -1,0 +1,176 @@
+#BrainItOn'da {0} seviyesini çözdüm
+☆☆☆ ile.
+Twitter'da paylaş
+Tweetle
+Facebook'ta paylaş
+Gönder
+Bir mesaj gir...
+Yükleniyor...
+Oyunu değerlendimek ister misiniz?
+Evet, tabii!
+Bir hata bildir
+Şimdi değil
+Bu satır hala kilitli. Açmak için bir önceki satırdaki 5 seviyenin 4'ünü çözmelisin.
+Tamam
+Oyun ilerlemenizi silmek ister misiniz?
+İlerlemeyi sil
+İptal
+Bildirimler
+Herhangi bir bildiri bulunmamakta, lütfen daha sonra tekrar bakınız.
+Kapat
+Katkıda Bulunanlar
+Facebook bağlantınızı kesmek ister misiniz?
+Bağlı kal
+Çıkış yapıldı ve Facebook verisi silindi.
+Tüm bulmacaları açmak için Brain It On! oyununu mobil cihazınıza indirin.
+Tebrikler! {0} açıldı.
+Güzel
+Mağazaya bağlanılıyor...
+Özür dileriz. Mağazaya bağlanılırken bir sorun oluştu. Lütfen daha sonra tekrar deneyiniz.
+Daha önce satın aldıklarınız iade edildi.
+Satın al
+Satın alma işlemi tamamlandı. Desteğiniz için teşekkürler!
+Henüz Değil
+Bağımsız geliştiricileri desteklediğiniz için teşekkür ederiz!
+Ayarlar
+Önceden Satın Alınanları İade Et
+Oyunu Sıfırla
+Yakında...
+Giriş Yap
+Çıkış Yap
+Reklamları Kaldır
+Üzgünüm, şu an için Facebook hesabına giriş sadece mobil cihazlarda mevcut.
+Tebrikler!
+Şimdi Satın Al
+Çözüldü
+Çıkmak istediğinden emin misin?
+Evet
+Hayır
+İpucu için bir reklam videosu izlemeye ne dersin?
+Lütfen ipucu için reklamın tamamını izleyin.
+İpucu
+Videonuz yüklenirken bir hata oluştu. Lütfen İnternet'e bağlı olduğunuzdan emin olun ve tekrar deneyin.
+Level Editor
+Başarılar
+Mağaza
+Kilitleri Aç
+{0} kere çözüldü
+Bu paketi açmak için yeterli yıldızınız yok. Lütfen daha fazla toplayın.
+Dil
+En İyi Sonuçlar
+Oyunun tam sürümünü satın al
+Tüm seviyeleri aç
+Tüm ipuçlarını aç
+Tüm reklamları kaldır
+(Daha önceden birşeyler satın aldıysan, ücrette indirim olacaktır)
+Hedef:
+Total time: {0}
+Total shapes: {0}
+İlerlemeni korumak ve birden fazla iOS cihazda oynamak için Game Center'ını kullanarak giriş yap.
+You must solve all the levels to unlock the community levels.
+Error contacting server, please try again later.
+The level editor is only available if you've purchased the full game.
+Are you sure you want to delete this level?
+Level deleted successfully.
+Seç seviye
+Mevcut puan
+Bir video tekrar denemek için izle ?
+Physics active on start
+Topluluk Bölümleri
+Ground
+Error loading level. Please upgrade to the latest version of the game.
+Dene
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Bir şekil çiz
+Topun sol taraftaki duvara vurmasını sağla
+Şekli sağa yatır
+Bardağı devir
+Topu kaseden çıkar
+Bardağın içine bir cisim yerleştir
+Bardağın içine sadece iki top yerleştir
+Küçük kutuya bir cisim yerleştir
+Topu sehpadan düşür
+Topun yere değmesini sağla
+Kırmızı bölgeye değen bir cisim çiz
+Kapağı çıkar
+Topu yerden kaldır
+Kavanozdan topu çıkar
+Tüm cisimleri platformdan uzaklaştır
+Turuncu kutuyu yerden kaldır
+Sağ duvara yüzüğü değdir
+Sol duvara topu değdir
+Topu turuncu kutuya yerleştir
+Platformu dengele
+Topu sağ duvara değdir
+Topu kaptan çıkar
+Topu turuncu kutuya yerleştir
+Topu vazodan çıkar
+Bardağı tepetaklak ters çevir
+Topu şekilden dışarı çıkar
+Turuncu kutu toplarını yerleştirin
+Topu sağ duvara değdir
+Bardağın içine bir cisim yerleştir
+Topu turuncu kutuya yerleştir
+Topu turuncu kutuya yerleştir
+Topu turuncu kutuya yerleştir
+Topu turuncu kutuya yerleştir
+Turuncu kutuya bir cisim yerleştir
+Topu şekilden çıkar
+Topu hem sağ hem de sol duvara değdir
+Topu sağ duvara değdir
+Topu tavana değdir
+Topu sağ duvara değdir
+Topu turuncu kutuya yerleştir
+Topu sağ duvara değdir
+Topu sağ duvara değdir
+Turuncu topu kutudan çıkar
+Topları kutularına yerleştir
+Topu turuncu kutuya yerleştir
+Kutuyu tepetaklak getir
+Şekli kenarına yatır
+Cismi tavana değdir
+Topu sol duvara vur
+Topu sol duvara vur
+Sağ duvara vuracak bir cisim çiz
+Topu yere değdir
+Tavana değecek bir cisim çiz
+Topu yere değdir
+Topun sol duvara değmesini sağla
+Sağ kutuya topu sol kutuya çubuğu yerleştir
+Topun yere değmesini sağla
+Üçgeni yerden kaldır
+Çubuğu turuncu kutuya yerleştir
+Turuncu kutuya üç top yerleştir
+Kutunun üstünden kapağı çıkar
+Kubbenin üstünden kapağı çıkar
+Turuncu kutuya bir şekil yerleştir
+Bir cismin hem sağ hem de sol duvara değmesini sağla
+Topu turuncu kutuya yerleştir
+Renkli topları sırala
+Zemine değebilecek bir cisim çiz
+Topun sağ duvara değmesini sağla
+Topun sağ duvara değmesini sağla
+İki çarkı da durdur
+Dört bir duvara da bir cismin değmesini sağla
+Topların tavana değmesini sağla
+Sol duvara bir cismin değmesini sağla
+Bardağın içine bir cisim yerleştir
+Turuncu kutuya bir cisim yerleştir
+Turuncu topun sağ duvara değmesini sağla
+Topun sağ duvara değmesini sağla
+Topu bardağın içine yerleştir
+Cismin sağ duvara değmesini sağla
+Topları kutularına yerleştir
+Mıknatısların birbirine değmesini sağla
+Mıknatısları ayır
+Topların yere değmesini sağla
+Renge göre sırala
+Başarımlar, oyunu satın aldığınızda aktif olacaktır.
+{0} seviyeyi 3 yıldızla çöz.
+{0} tane seviyeyi hedef şekil sayısının altında çöz.
+{0} adet şekil çiz.
+{0} tane seviyeyi 1 şekil ile çöz.
+{0} tane seviyeyi 1 saniyeden az sürede çöz.
+{0} tane seviyeyi hedef sürenin 5 saniye altında çöz.
+{0} tane seviyeyi hedef sürenin 10 saniye altında çöz.

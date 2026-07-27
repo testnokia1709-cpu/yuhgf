@@ -1,0 +1,176 @@
+Vyriešil som úroveň {0} v #BrainItOn
+s ☆☆☆.
+Zdieľať na Twitter
+Tweet
+Zdieľať na Facebooku
+Poslať
+Zadaj správu ...
+Nahrávam ...
+Chcel by si ohodnotiť hru?
+Áno, samozrejme!
+Nahlásiť chybu
+Teraz nie
+Tento riadok je stále zamknutý. Musíš vyriešiť 4 z 5 úrovní v predchádzajúcom riadku, aby si ju odomkol.
+Ok
+Chceš zmazať Tvoj postup v hre ?
+Zmazať postup
+Zrušiť
+Poznámková tabuľa
+Žiadne oznámenie k dispozícii, skús to prosím neskôr.
+Zavrieť
+Poďakovanie
+Chceš sa odhlásiť z Facebooku?
+Ostať pripojený
+Odhlásený a údaje z Facebooku vymazané.
+Stiahni Brain It On! pre mobilný telefón aby si odomkol všetky sady puzzle.
+Blahoželáme! Odomkol si {0}.
+Pekne.
+Pripájam sa k obchodu...
+Je nám ľúto, došlo ku chybe pri pripojovaní k obchodu, skús to prosím neskôr.
+Tvoje nákupy boli obnovené.
+Nákup
+Nákup je kompletný. Ďakujem za tvoju podporu!
+Teraz nie
+Ďakujeme za podporu malých indie vývojárov!
+Nastavenie
+Obnoviť nákupy
+Resetovať hru
+Už čoskoro...
+Prihlásiť sa
+Odhlásiť sa
+Žiadne reklamy
+Je nám ľúto, ale prihlásenie na Facebook je  v súčasnej dobe podporované iba na mobilných zariadeniach.
+Blahoželáme!
+Kúpiť teraz
+Vyriešené
+Si si isty že chceš skončiť?
+Áno
+Nie
+Pozrieť video pre získanie rady?
+Prosím, pozri celé video pre získanie rady.
+Rada
+Došlo k chybe pri načítaní videa. Uisti sa, že si pripojení k internetu a skús to znova.
+Level Editor
+Úspechy
+Obchod
+Odomknúť
+Riešené {0} krát
+Nemáš ešte dostatok hviezd, prosím, nazbieraj ich viac pre odomknutie tohto balíka.
+Jazyk
+Najlepšie výsledky
+Kúpiť plnú verziu hry
+Odomknúť všetky levely
+Odomknúť všetky pomôcky
+Odstrániť všetky reklamy
+(Cena je so zľavou, ak si si už niečo zakúpil)
+Cieľ:
+Total time: {0}
+Total shapes: {0}
+Sign in using your Game Center to safeguard your progress and to play on multiple iOS devices.
+You must solve all the levels to unlock the community levels.
+Error contacting server, please try again later.
+The level editor is only available if you've purchased the full game.
+Are you sure you want to delete this level?
+Level deleted successfully.
+Vybrať úroveň
+Vaše aktuálne skóre
+Pozrite sa na video skúsiť to znova ?
+Physics active on start
+Community Levels
+Ground
+Error loading level. Please upgrade to the latest version of the game.
+Try
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Nakresli tvar
+Lopta sa musí dotknúť ľavej steny
+Preváť tvar doprava
+Preváť pohár na zem
+Dostaň loptu z misy
+Umiestni objekt do pohára
+Umiestni len dve loptičky do pohára
+Umiestni objekt do malej krabice
+Zdvihni loptu zo zeme
+Lopta sa musí dotknúť zeme
+Objekt sa musí dotknúť červenej zóny
+Odstráň vrchnák
+Zdvihni loptu zo zeme
+Dostaň loptu z pohára
+Odstráň všetky objekty z platformy
+Zdvihni oranžovú krabicu zo zeme
+Kruh sa musí dotknúť pravej steny 
+Lopta sa musí dotknúť ľavej steny
+Dostaň loptu do oranžovej krabice
+Vyváž platformu
+Lopta sa musí dotkúť pravej steny
+Dostaň loptu z nádoby
+Dostaň loptu do oranžovej krabice
+Dostaň loptu z vázy
+Prevráť pohár hore nohami
+Dostaň loptu von z nádoby
+Dostaň lopty do oranžovej krabice
+Lopta sa musí dotkúť pravej steny
+Umiestni objekt do pohára
+Dostaň loptu do oranžovej krabice
+Dostaň loptu do oranžovej krabice
+Dostaň loptu do oranžovej krabice
+Dostaň loptu do oranžovej krabice
+Umiestni objekt do oranžovej krabice
+Dostaň loptu von z nádoby
+Lopta sa musí dotknúť ľavej a pravej steny
+Lopta sa musí dotkúť pravej steny
+Lopta sa musí dotknúť stropu
+Lopta sa musí dotkúť pravej steny
+Dostaň loptu do oranžovej krabice
+Lopta sa musí dotkúť pravej steny
+Lopta sa musí dotkúť pravej steny
+Dostaň oranžovú loptu von z krabice
+Dostaň lopty do ich krabíc
+Dostaň loptu do oranžovej krabice
+Prevráť vrchnák krabice hore nohami
+Prevráť tvar na bok
+Donúť tvar dotknúť sa stropu
+Lopta sa musí dotknúť ľavej steny
+Lopta sa musí dotknúť ľavej steny
+Nejaký objekt sa musí dotknúť pravej steny
+Oranžová lopta sa musí dotknúť zeme
+Nejaký objekt sa musí dotknúť stropu
+Lopta sa musí dotknúť zeme
+Lopta sa musí dotknúť ľavej steny
+Dostaň loptu do pravého boxu a dosku do ľavého boxu
+Lopta sa musí dotknúť zeme
+Zdvihni trojuholník zo zeme
+Dostaň dosku do oranžovej krabice
+Dostaň tri loptičky do oranžovej krabice
+Odstráň vrchnák z krabice
+Odstáň obal z kupoly
+Umiestni nejaký tvar do oranžovej krabice
+Rovnaký objekt sa musí dotknúť ľavej a pravej steny
+Dostaň loptu do oranžovej krabice
+Roztrieď farebné guličky
+Nejaký objekt sa musí dotknúť zeme
+Lopta sa musí dotkúť pravej steny
+Lopta sa musí dotkúť pravej steny
+Zastav obe ozubené kolesá
+Donúť objekt dotknúť sa všetkých štyroch stien
+Donúť guličky dotknúť sa stropu
+Nejaký objekt sa musí dotknúť ľavej steny
+Umiestni objekt do pohára
+Umiestni objekt do oranžovej krabice
+Oranžová lopta sa musí dotknúť pravej steny
+Lopta sa musí dotkúť pravej steny
+Dostaň loptu do pohára
+Donúť tvar dotknúť sa pravej steny
+Dostaň lopty do ich krabíc
+Magnety sa musia dotknúť
+Oddeľ magnety
+Guličky sa musia dotknúť zeme
+Triediť podľa farby
+Dosiahnuté výsledky sú k dispozícii, ak si si zakúpil hru.
+Vyrieš {0} úrovní s 3 hviezdami.
+Vyrieš {0} úrovní s menším počtom tvarov ako je cieľ.
+Nakresli {0} tvarov.
+Vyrieš {0} úrovní s iba 1 tvarom.
+Vyrieš {0} úrovní za menej ako 1 sekundu.
+Vyrieš {0} úrovní o 5 sekúnd rýchlejšie ako je cieľ.
+Vyrieš {0} úrovní o 10 sekúnd rýchlejšie ako je cieľ.

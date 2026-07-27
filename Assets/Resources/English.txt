@@ -1,0 +1,176 @@
+I solved level {0} in #BrainItOn
+with ☆☆☆.
+Share on Twitter
+Tweet
+Share on Facebook
+Post
+Enter message...
+Loading...
+Would you like to rate this game?
+Yes, sure!
+Report a bug
+Not now
+This row is still locked. You have to solve 4 out of 5 levels in the previous row to unlock it.
+Ok
+Do you want to clear your game progress?
+Clear Progress
+Cancel
+Notice Board
+No notices available, please check back later.
+Close
+Credits
+Would you like to log out of Facebook?
+Stay connected
+Logged out and Facebook data cleared.
+Download Brain It On! for your mobile device to unlock all the puzzle sets.
+Congratulations! You've unlocked {0}.
+Nice
+Connecting to store...
+We're sorry, an error occurred while contacting the store, please try again later.
+Your purchases have been restored.
+Purchase
+Purchase complete. Thank you for your support!
+Not Now
+Thank you for supporting small indie developers!
+Settings
+Restore Purchases
+Reset Game
+Coming Soon...
+Login
+Log Out
+No Ads
+Sorry, Facebook Login is only supported on mobile devices currently.
+Congratulations!
+Buy Now
+Solved
+Are you sure you want to quit?
+Yes
+No
+Watch a video to get a hint?
+Please watch the entire video to get a hint.
+Hint
+An error occurred loading your video. Please make sure you are connected to the internet and try again.
+Level Editor
+Achievements
+Store
+Unlock
+Solved {0} times
+You do not have enough stars yet, please collect more to unlock this pack.
+Language
+Best Results
+Buy the Full Game
+Unlocks all levels
+Unlocks all hints
+Removes all ads
+(The price is discounted if you have already purchased items)
+Goal:
+Total time: {0}
+Total shapes: {0}
+Sign in using your Game Center to safeguard your progress and to play on multiple iOS devices.
+You must solve all the levels to unlock the community levels.
+Error contacting server, please try again later.
+The level editor is only available if you've purchased the full game.
+Are you sure you want to delete this level?
+Level deleted successfully.
+Select Level
+Your current score
+Watch a video to try again?
+Physics active on start
+Community Levels
+Ground
+Error loading level. Please upgrade to the latest version of the game.
+Try
+Watch a video to try a level?
+Please watch the entire video to earn your reward.
+Draw a shape
+Make the ball hit the left wall
+Tilt the shape to the right
+Tip the glass onto the ground
+Get the ball out of the bowl
+Place an object inside the glass
+Place only two balls in the glass
+Place an object in the small box
+Get the ball off the stand
+Make the ball touch the ground
+Make an object touch the red area
+Remove the cap
+Lift the ball off the ground
+Get the ball out of the jar
+Clear all objects from the platform
+Lift the orange box off the ground
+Make the ring touch the right wall
+Make the ball touch the left wall
+Place the ball in the orange box
+Balance the platform
+Make the ball touch the right wall
+Get the ball out of the container
+Place the ball in the orange box
+Get the ball out of the vase
+Flip the glass upside down
+Get the ball out of the shape
+Place the balls in the orange box
+Make the ball hit the right wall
+Place an object inside the glass
+Place the ball in the orange box
+Place the ball in the orange box
+Place the ball in the orange box
+Place the ball in the orange box
+Place an object inside the orange box
+Get the ball out of the shape
+Make the ball hit the left and right wall
+Make the ball touch the right wall
+Make the ball touch the ceiling
+Make the ball hit the right wall
+Place the ball in the orange box
+Make the ball hit the right wall
+Make the ball hit the right wall
+Get the orange ball out of the box
+Place the balls in their boxes
+Place the ball in the orange box
+Flip the box over
+Tip the shape onto its side
+Make the shape touch the ceiling
+Make the ball hit the left wall
+Make the ball hit the left wall
+Make an object hit the right wall
+Make the orange ball hit the ground
+Make an object touch the ceiling
+Make the ball touch the ground
+Make the ball hit the left wall
+Place the ball in the right box and the plank in the left box
+Make the ball touch the ground
+Lift the triangle off the ground
+Place the plank in the orange box
+Place three balls in the orange box
+Take the cap off the box
+Take the shell off the dome
+Place a shape in the orange box
+Make the same object touch the left and right wall
+Place the ball in the orange box
+Sort the colored balls
+Make an object touch the ground
+Make the ball touch the right wall
+Make the ball touch the right wall
+Stop both gears
+Make an object touch all four walls
+Make the balls touch the ceiling
+Make an object touch the left wall
+Place the shape inside the glass
+Place an object inside the orange box
+Make the orange ball touch the right wall
+Make the ball touch the right wall
+Place the ball in the glass
+Make the shape touch the right wall
+Place the balls in their boxes
+Make the magnets touch
+Separate the magnets
+Make the balls touch the ground
+Sort by color
+Achievements are available if you've purchased the game.
+Solve {0} levels with 3 stars.
+Solve {0} levels below the shape goal.
+Draw {0} shapes.
+Solve {0} levels with only 1 shape.
+Solve {0} levels in less than 1 second.
+Solve {0} levels 5 seconds below the time goal.
+Solve {0} levels 10 seconds below the time goal.
