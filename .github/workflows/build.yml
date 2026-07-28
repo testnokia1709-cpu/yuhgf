@@ -20,11 +20,6 @@ jobs:
           Write-Host "Downloading Unity Editor from $editorUrl"
           Invoke-WebRequest -Uri $editorUrl -OutFile $editorInstaller -ErrorAction Stop
 
-          $supportUrl = "https://download.unity3d.com/download_unity/a53ad04f7c7f/TargetSupportInstaller/UnitySetup-Windows-Mono-Support-for-Editor-2018.1.3f1.exe"
-          $supportInstaller = "UnitySetup-Windows-Mono-Support-for-Editor-2018.1.3f1.exe"
-          Write-Host "Downloading Windows Mono Build Support from $supportUrl"
-          Invoke-WebRequest -Uri $supportUrl -OutFile $supportInstaller -ErrorAction Stop
-
       - name: Install Unity Editor 2018.1.3f1
         shell: powershell
         run: |
@@ -32,11 +27,6 @@ jobs:
           $proc = Start-Process -FilePath "UnitySetup64-2018.1.3f1.exe" -ArgumentList "/S /D=C:\Unity" -NoNewWindow -Wait -PassThru
           if ($proc.ExitCode -ne 0) { throw "Unity Editor install failed with exit code $($proc.ExitCode)" }
           Write-Host "Unity Editor installed successfully."
-
-          Write-Host "Installing Windows Mono Build Support..."
-          $proc2 = Start-Process -FilePath "UnitySetup-Windows-Mono-Support-for-Editor-2018.1.3f1.exe" -ArgumentList "/S /D=C:\Unity" -NoNewWindow -Wait -PassThru
-          if ($proc2.ExitCode -ne 0) { throw "Windows Build Support install failed with exit code $($proc2.ExitCode)" }
-          Write-Host "Windows Mono Build Support installed successfully."
 
       - name: Activate Unity Personal License
         shell: powershell
