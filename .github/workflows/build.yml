@@ -1,0 +1,97 @@
+name: Build Unity Project
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: windows-2019
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download Unity Editor 2018.1.3f1
+        shell: powershell
+        run: |
+          $editorUrl = "https://download.unity3d.com/download_unity/a53ad04f7c7f/Windows64EditorInstaller/UnitySetup64-2018.1.3f1.exe"
+          $editorInstaller = "UnitySetup64-2018.1.3f1.exe"
+          Write-Host "Downloading Unity Editor from $editorUrl"
+          Invoke-WebRequest -Uri $editorUrl -OutFile $editorInstaller -ErrorAction Stop
+
+          $supportUrl = "https://download.unity3d.com/download_unity/a53ad04f7c7f/TargetSupportInstaller/UnitySetup-Windows-Mono-Support-for-Editor-2018.1.3f1.exe"
+          $supportInstaller = "UnitySetup-Windows-Mono-Support-for-Editor-2018.1.3f1.exe"
+          Write-Host "Downloading Windows Mono Build Support from $supportUrl"
+          Invoke-WebRequest -Uri $supportUrl -OutFile $supportInstaller -ErrorAction Stop
+
+      - name: Install Unity Editor 2018.1.3f1
+        shell: powershell
+        run: |
+          Write-Host "Installing Unity Editor..."
+          $proc = Start-Process -FilePath "UnitySetup64-2018.1.3f1.exe" -ArgumentList "/S /D=C:\Unity" -NoNewWindow -Wait -PassThru
+          if ($proc.ExitCode -ne 0) { throw "Unity Editor install failed with exit code $($proc.ExitCode)" }
+          Write-Host "Unity Editor installed successfully."
+
+          Write-Host "Installing Windows Mono Build Support..."
+          $proc2 = Start-Process -FilePath "UnitySetup-Windows-Mono-Support-for-Editor-2018.1.3f1.exe" -ArgumentList "/S /D=C:\Unity" -NoNewWindow -Wait -PassThru
+          if ($proc2.ExitCode -ne 0) { throw "Windows Build Support install failed with exit code $($proc2.ExitCode)" }
+          Write-Host "Windows Mono Build Support installed successfully."
+
+      - name: Activate Unity Personal License
+        shell: powershell
+        run: |
+          Write-Host "Activating Unity Personal license..."
+          & "C:\Unity\Editor\Unity.exe" -quit -batchmode -nographics `
+            -username $env:UNITY_EMAIL `
+            -password $env:UNITY_PASSWORD `
+            -logFile "$env:GITHUB_WORKSPACE\activate.log"
+          Write-Host "License activation attempted. Check activate.log for details."
+        env:
+          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
+
+      - name: Display activation log (on failure)
+        if: failure()
+        shell: powershell
+        run: |
+          if (Test-Path "activate.log") {
+            Write-Host "=== Activation Log ==="
+            Get-Content "activate.log"
+          }
+
+      - name: Build Unity project (Windows x64 Mono)
+        shell: powershell
+        run: |
+          $buildDir = "$env:GITHUB_WORKSPACE\Build"
+          Write-Host "Building Unity project to $buildDir\Game.exe"
+          & "C:\Unity\Editor\Unity.exe" -quit -batchmode -nographics `
+            -projectPath "$env:GITHUB_WORKSPACE" `
+            -buildWindows64Player "$buildDir\Game.exe" `
+            -logFile "$env:GITHUB_WORKSPACE\build.log"
+          Write-Host "Build finished. Check build.log for details."
+
+      - name: Display build log (on failure)
+        if: failure()
+        shell: powershell
+        run: |
+          if (Test-Path "build.log") {
+            Write-Host "=== Build Log ==="
+            Get-Content "build.log" -Tail 100
+          }
+
+      - name: Return Unity license
+        if: always()
+        shell: powershell
+        run: |
+          Write-Host "Returning Unity license..."
+          & "C:\Unity\Editor\Unity.exe" -quit -batchmode -nographics -returnlicense -logFile "$env:GITHUB_WORKSPACE\return-license.log"
+          Write-Host "License returned."
+
+      - name: Upload build artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: Windows-Build-x64
+          path: Build\
+          if-no-files-found: warn
